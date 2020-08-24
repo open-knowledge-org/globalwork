@@ -23,6 +23,7 @@ Join the Global Remote Workforce Repository
 - [OwlLabs Blog](https://www.owllabs.com/blog)
 - [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
 - [Miro Blog](https://miro.com/guides/remote-work/)
+- [Know your team](https://knowyourteam.com/blog/)
 
 ## Tools
 - [Miro](https://miro.com/blog/category/remote-collaboration/)
