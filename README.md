@@ -1,7 +1,5 @@
-# globalwork  ![GitHub](https://img.shields.io/github/license/eduardomioto/globalwork?style=flat-square)
+# globalwork  ![GitHub](https://img.shields.io/github/license/eduardomioto/globalwork?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/eduardomioto/globalwork?color=%232E8DCD&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardomioto/globalwork?style=flat-square)
 :globe_with_meridians: Join the Global Remote Workforce Repository
-
-
 
 A collaborative list of great resources about remote work, global workforce and future of work. Feel free to contribute to this on-going list. :hand:
 
@@ -41,24 +39,26 @@ Hot Topics :fire:
 - [Signal v. Noise](https://signalvnoise.com/)
 
 ## Tools
-- [Miro](https://miro.com/blog/category/remote-collaboration/)
-- [Work From Home List](https://wfhlist.io) An Open List of Work From Home Software & Hardware tools.
-- [Zoom](https://zoom.us/) video conferece tool.
-- [Slack](https://slack.com/) for team communication.
-- [Pivotal Tracker](http://www.pivotaltracker.com/) for tracking tasks.
-- [Trello](https://trello.com/) free, flexible, and visual way to organize anything with anyone.
-- [Asana](https://asana.com/) team collaboration, projects and tasks management.
-- [Harvest](https://www.getharvest.com/), a timesheet tracking software.
+- [1password](https://1password.com/), password management
+- [Asana](https://asana.com/), team collaboration, projects and tasks management.
 - [Desktime](http://desktime.com/), time tracking tool.
-- [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
-- [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
-- [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
-- [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
-- [PukkaTeam](https://pukkateam.com) - Remote team presence tool.
-- [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
-- [1password](https://1password.com/) - Password management
+- [Discourse](https://www.discourse.org/), private forum tool
+- [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
-- [Twist](https://twist.com/) - Eases team communication by keeping conversations organized, structured and on-topic
+- [Miro](https://miro.com/blog/category/remote-collaboration/)
+- [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks.
+- [PukkaTeam](https://pukkateam.com), remote team presence tool.
+- [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
+- [Slack](https://slack.com/), for team communication.
+- [Taskade](https://www.taskade.com/), realtime organization and collaboration tool for getting things done.
+- [Timing](https://timingapp.com/), automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
+- [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
+- [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
+- [Twist](https://twist.com/), eases team communication by keeping conversations organized, structured and on-topic
+- [Twitch](https://www.twitch.tv/), streaming and communication tool
+- [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
+- [Work From Home List](https://wfhlist.io), an Open List of Work From Home Software & Hardware tools.
+- [Zoom](https://zoom.us/), video conferece tool.
 
 ## Gadgets and Productivity
 
@@ -175,6 +175,7 @@ Portuguese Only
 
 ## Music
 - [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
+- [Deep Focus Music](https://www.youtube.com/watch?v=ceGLEhahLKQ)
 
 ## Contributors ✨
 
