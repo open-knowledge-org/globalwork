@@ -8,6 +8,7 @@ Join the Global Remote Workforce Repository
 
 ## Podcasts
 - [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
+- [Raj Choudhury Sees a Future Where You Don’t Have to Move Your Family for a Job Distributed, with Matt Mullenweg](https://open.spotify.com/episode/2fobG97dnxaNdXgIsMQFPG?si=xRu1TBSGSwSfyTzG4IGTFA)
 
 ## Blogs
 - [Matt](https://ma.tt/)
