@@ -2,7 +2,9 @@
 Join the Global Remote Workforce Repository
 
 ## Books
-- [Remote : Office Not Required](http://37signals.com/remote/).
+- [Remote : Office Not Required](http://37signals.com/remote/)
+- [It Doesn’t Have to be Crazy at Work by Jason Fried and David Hansson Heinemeier Hansson](https://www.amazon.ca/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_1?keywords=It+Doesn%E2%80%99t+Have+to+be+Crazy+at+Work&qid=1561503293&s=gateway&sr=8-1)
+- [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver by Johanna Rothman and Mark Kilby](https://www.amazon.ca/Chaos-Successful-Distributed-Agile-Teams-ebook/dp/B07PRYM1TF/ref=sr_1_1?keywords=From+Chaos+to+Successful+Distributed+Agile+Teams%3A+Collaborate+to+Deliver&qid=1561503315&s=gateway&sr=8-1)
 
 ## Podcasts
 - [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
@@ -43,6 +45,8 @@ Join the Global Remote Workforce Repository
 - [Hubstaff](https://blog.hubstaff.com/remote-team-management/)
 - [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
 - [OwlLabs Interview with Hiten Shah](https://www.owllabs.com/remote-work-interviews/hiten-shah)
+- [Zapier - Onboarding](https://zapier.com/blog/onboarding-remote-employees/)
+- [Zapier - How to evaluate Employees](https://zapier.com/learn/remote-work/remote-employee-evaluation/)
 
 ## Management Playbooks
 - [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
@@ -66,10 +70,6 @@ Join the Global Remote Workforce Repository
 - [10 practices that will ensure you succeed at remote work](https://weworkremotely.com/10-practices-that-will-ensure-you-succeed-at-remote-work)
 - [Remote Work Policy](https://learn.g2.com/remote-work-policy)
 - [OWL Labs - Remote Work Interviews](https://www.owllabs.com/remote-work-interviews)
-
-## Jobs 
-- [Remote.co](https://remote.co/remote-jobs/it/
-- [We Work Remotely](https://weworkremotely.com/remote-work-resources/reading)
 
 ## Langague Improvements
 - [Italki](https://www.italki.com/?hl=pt)
