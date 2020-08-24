@@ -1,5 +1,7 @@
-# globalwork
+# globalwork  ![GitHub](https://img.shields.io/github/license/eduardomioto/globalwork?style=flat-square)
 :globe_with_meridians: Join the Global Remote Workforce Repository
+
+
 
 A collaborative list of great resources about remote work, global workforce and future of work. Feel free to contribute to this on-going list. :hand:
 
@@ -173,6 +175,27 @@ Portuguese Only
 
 ## Music
 - [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
+
+## Contributors ✨
+
+Thanks goes to these people as well as our references.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://eduardomioto.com"><img src="https://avatars.githubusercontent.com/eduardomioto" width="100px;" alt=""/>
+      <br />
+      <sub><b>Eduardo Mioto</b></sub></a>
+      <br />
+    </td>
+ </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## References
 - [Zapier](https://zapier.com/learn/remote-work/)
