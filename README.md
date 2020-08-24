@@ -22,6 +22,7 @@ Join the Global Remote Workforce Repository
 - [Remote Work Tips](https://usefyi.com/remote-work-tips/)
 - [OwlLabs Blog](https://www.owllabs.com/blog)
 - [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
+- [Miro Blog](https://miro.com/guides/remote-work/)
 
 ## Tools
 - [Miro](https://miro.com/blog/category/remote-collaboration/)
@@ -41,8 +42,9 @@ Join the Global Remote Workforce Repository
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 
-## Gadgets
+## Gadgets and Productivity
 - [Microphone FIFINE K678](https://pt.aliexpress.com/store/4496094?spm=a2g0o.detail.1000061.1.7c9f46bc3DQ2Ah)
+- [Mousepad](https://pt.aliexpress.com/item/32971118525.html?spm=a2g0o.productlist.0.0.57126bddXQaAPe&algo_pvid=a78f91e9-769b-467c-ad70-5c643a19f702&algo_expid=a78f91e9-769b-467c-ad70-5c643a19f702-5&btsid=0be3743b15979327322533481eb33f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 ## Remote Team Management
 - [Hubstaff](https://blog.hubstaff.com/remote-team-management/)
@@ -59,7 +61,7 @@ Join the Global Remote Workforce Repository
 ## Finance
 
 ### Payroll
-- https://www.groovehq.com/blog/working-remotely-taxes-payroll
+- [Taxes and Payroll](https://www.groovehq.com/blog/working-remotely-taxes-payroll)
 
 ### Salary Calculation
 - [Buffer](https://buffer.com/resources/transparent-salaries/)
@@ -85,19 +87,28 @@ Join the Global Remote Workforce Repository
 - [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
 - [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
 - [We Work Remotely - History of Remote Work](https://weworkremotely.com/history-of-remote-work)
+- [54% of adults want to work remotely most of the time after the pandemic, according to a new study from IBM](https://www.businessinsider.com/54-percent-adults-want-mainly-work-remote-after-pandemic-study-2020-5)
+- [Havard Business Review - Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
+- [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
 
 ### Português
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
 
 ## Trends / Future of Work
-- [Remote Work Trends](https://weworkremotely.com/remote-work-trends)
+- [We Work Remotely - Remote Work Trends](https://weworkremotely.com/remote-work-trends)
 - [UpWork - Future Workforce](https://www.upwork.com/i/future-workforce/fw/2020/)
+- [Buffer - State of Remote Work 2019](https://buffer.com/state-of-remote-work-2019)
+- [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
 
 ## Stay in Touch
 
 ### Slack Communities
 - [OwlLabs - Communites](https://www.owllabs.com/blog/remote-work-slack-communities)
 - [Work Remotely](https://slofile.com/slack/workremotely)
+
+## General Info
+- [how-telecommuting-saves-money-and-the-planet-too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
+- [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
 
 ### Events
 - [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
