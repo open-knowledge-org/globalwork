@@ -108,7 +108,7 @@ Join the Global Remote Workforce Repository
 - [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
 - [How to negotiate a permanent work-from-home arrangement](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
 
-* Portuguese Only
+Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
 
 ### Macroeconomy
