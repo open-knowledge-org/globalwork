@@ -109,6 +109,7 @@ Join the Global Remote Workforce Repository
 ## General Info
 - [how-telecommuting-saves-money-and-the-planet-too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
 - [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
+- [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/)
 
 ### Events
 - [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
