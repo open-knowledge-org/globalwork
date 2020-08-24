@@ -1,6 +1,11 @@
 # globalwork
 :globe_with_meridians: Join the Global Remote Workforce Repository
 
+A collaborative list of great resources about remote work, global workforce and future of work. Feel free to contribute to this on-going list. :hand:
+
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).* :pencil2:
+
+
 ## Books
 
 - [Remote : Office Not Required](http://37signals.com/remote/)
