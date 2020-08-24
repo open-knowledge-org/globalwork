@@ -148,6 +148,7 @@ Portuguese Only
 
 ### Events
 - [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
+- [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
 
 ## Music
 - [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
