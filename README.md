@@ -41,6 +41,8 @@ Join the Global Remote Workforce Repository
 - [Notion](https://www.notion.so/) - Software to write, plan, collaborate, and get organized.
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 
+## Gadgets
+- [Microphone FIFINE K678](https://pt.aliexpress.com/store/4496094?spm=a2g0o.detail.1000061.1.7c9f46bc3DQ2Ah)
 
 ## Remote Team Management
 - [Hubstaff](https://blog.hubstaff.com/remote-team-management/)
@@ -99,6 +101,9 @@ Join the Global Remote Workforce Repository
 
 ### Events
 - [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
+
+## Music
+- [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
 
 ## References
 - [Zapier](https://zapier.com/learn/remote-work/)
