@@ -1,10 +1,12 @@
 # globalwork
-Join the Global Remote Workforce Repository
+:globe_with_meridians: Join the Global Remote Workforce Repository
 
 ## Books
+
 - [Remote : Office Not Required](http://37signals.com/remote/)
 - [It Doesn’t Have to be Crazy at Work by Jason Fried and David Hansson Heinemeier Hansson](https://www.amazon.ca/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_1?keywords=It+Doesn%E2%80%99t+Have+to+be+Crazy+at+Work&qid=1561503293&s=gateway&sr=8-1)
 - [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver by Johanna Rothman and Mark Kilby](https://www.amazon.ca/Chaos-Successful-Distributed-Agile-Teams-ebook/dp/B07PRYM1TF/ref=sr_1_1?keywords=From+Chaos+to+Successful+Distributed+Agile+Teams%3A+Collaborate+to+Deliver&qid=1561503315&s=gateway&sr=8-1)
+- [The Year Without Pants: WordPress.com and the Future of Work](https://www.amazon.com/gp/product/1118660633/?tag=scottberkunco-20)
 
 ## Podcasts
 - [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
@@ -70,12 +72,14 @@ Join the Global Remote Workforce Repository
 ### Invoice Creation
 - [Invoice Ninja](https://www.invoiceninja.com/)
 
-## Culture
+## Culture and Guides
 - [Why Remote Work Leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
 - [Gitlab - The remote manifesto](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
 - [10 practices that will ensure you succeed at remote work](https://weworkremotely.com/10-practices-that-will-ensure-you-succeed-at-remote-work)
 - [Remote Work Policy](https://learn.g2.com/remote-work-policy)
 - [OWL Labs - Remote Work Interviews](https://www.owllabs.com/remote-work-interviews)
+- [HubStaff - No Excuses: The Definitive Guide to Managing a Remote Team](https://blog.hubstaff.com/remote-team-management/)
+- [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
 
 ## Langague Improvements
 - [Italki](https://www.italki.com/?hl=pt)
@@ -101,12 +105,12 @@ Join the Global Remote Workforce Repository
 
 - [Why Finland leads the World in Flexible Work](https://www.bbc.com/worklife/article/20190807-why-finland-leads-the-world-in-flexible-work)
 - [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
-- [We Work Remotely - History of Remote Work](https://weworkremotely.com/history-of-remote-work)
 - [54% of adults want to work remotely most of the time after the pandemic, according to a new study from IBM](https://www.businessinsider.com/54-percent-adults-want-mainly-work-remote-after-pandemic-study-2020-5)
 - [Havard Business Review - Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
 - [Should companies rush headlong into permanent remote work?](https://www.globaltrademag.com/should-companies-rush-headlong-into-permanent-remote-work/)
 - [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
 - [How to negotiate a permanent work-from-home arrangement](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
+- [Remote team communication tools](https://doist.com/blog/remote-team-communication-tools/)
 
 Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
@@ -121,6 +125,7 @@ Portuguese Only
 - [Buffer - State of Remote Work 2019](https://buffer.com/state-of-remote-work-2019)
 - [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
 - [Prudential - American Worker Survey: Living the Future of Work](https://news.prudential.com/presskits/prudentials-pulse-american-worker-survey-living-future-work.htm)
+- [We Work Remotely - The History, Evolution and Future of Remote Work](https://weworkremotely.com/history-of-remote-work)
 
 ## Formal Study
 - [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
@@ -132,7 +137,7 @@ Portuguese Only
 - [Work Remotely](https://slofile.com/slack/workremotely)
 
 ## General Info
-- [how-telecommuting-saves-money-and-the-planet-too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
+- [How Telecommuting saves money and the planet too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
 - [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
 - [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/)
 
