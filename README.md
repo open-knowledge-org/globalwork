@@ -43,7 +43,7 @@ Portuguese Only
 
 ## Tools
 
-### Communication
+#### Communication
 
 - [Google Hangouts](https://hangouts.google.com/)
 - [Slack](https://slack.com/)
@@ -61,7 +61,7 @@ Portuguese Only
 - [Discourse](https://www.discourse.org/), private forum tool
 - [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
 
-### Collaboration
+#### Collaboration
 - [PukkaTeam](https://pukkateam.com), remote team presence tool.
 - [Miro](https://miro.com/blog/category/remote-collaboration/)
 - [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
@@ -71,35 +71,35 @@ Portuguese Only
 - [Taskade](https://taskade.com) - Create notes, checklists, and outlines with your team. Collaborate and edit together in real-time.
 - [Quip](https://quip.com/)
 
-### Focus
+#### Focus
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) 
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
 - [ColdTurkey (Windows)](http://getcoldturkey.com/)
 
-### Project Management
+#### Project Management
 - [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
 - [Wrike](https://wrike.com/)
 - [Asana](https://asana.com/), team collaboration, projects and tasks management.
 - [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks.
 - [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
 
-### Noise Cancelling
+#### Noise Cancelling
 - [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
 
-### Security
+#### Security
 - [1password](https://1password.com/), password management
 - [Cloak](https://getcloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
 - [Authy](https://authy.com) - The best choice for cross platform two-factor authentication.
 - [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
 - [Ghostery](https://www.ghostery.com/products/) - Fantastic extension for blocking trackers in all major web browsers.
 
-### Backup
+#### Backup
 - [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
 - [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
 - [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
 - [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
 
-### Time Tracking
+#### Time Tracking
 - [Timing](https://timingapp.com/), automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
 - [Desktime](http://desktime.com/), time tracking tool.
 - [Harvest](https://www.getharvest.com/), a timesheet tracking software.
@@ -107,7 +107,7 @@ Portuguese Only
 - [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
 - [Taskade](https://www.taskade.com/), realtime organization and collaboration tool for getting things done.
 
-## Langagues
+#### Langagues
 - [Italki](https://www.italki.com/?hl=pt)
 - [Write and Improve](https://writeandimprove.com/workbooks#/wi-workbooks/bdc648bc-b760-4bac-98bc-161a95deff5e/tasks/582c6699-5ab0-4a63-bd54-6296766cf88c)
 - [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
@@ -117,18 +117,18 @@ Portuguese Only
 - [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
-## Music
+#### Music
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
 - [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
 - [Deep Focus Music](https://www.youtube.com/watch?v=ceGLEhahLKQ)
 - [Calm App](https://www.calm.com/)
 
-## Extended Display
+#### Extended Display
 - [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
 - [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
 
 
-## Gadgets and Productivity
+#### Gadgets and Productivity
 
 International
 - [Roost Laptop Stand](http://therooststand.com) - The original portable back-saving laptop stand.
@@ -156,7 +156,6 @@ Brazil
 - [Cable Organizer Glorila Shield](https://www.gorilashield.com.br/organizador-de-cabos-gorila-shield)
 - [Necessaire Guardian Glorila Shield](https://www.gorilashield.com.br/necessaire-guardian-gorila-shield)
 
-
 ## Remote Team Management
 - [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
 - [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
@@ -173,13 +172,13 @@ Brazil
 
 ## Finance
 
-### Payroll
+#### Payroll
 - [Taxes and Payroll](https://www.groovehq.com/blog/working-remotely-taxes-payroll)
 
-### Salary Calculation
+#### Salary Calculation
 - [Buffer](https://buffer.com/resources/transparent-salaries/)
 
-### Invoice Creation
+#### Invoice Creation
 - [Invoice Ninja](https://www.invoiceninja.com/)
 - [Husky](https://husky.io/)
 - [Harvest](https://www.getharvest.com/)
@@ -197,13 +196,13 @@ Brazil
 
 ## News
 
-### Reports
+#### Reports
 
 - [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
 - [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
 - [Delloite - Remote work](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/human-capital/sg-hc-remote-work.pdf)
 
-### Permanent Migration
+#### Permanent Migration
 
 - [Twitter and Square](https://www.forbes.com/sites/jackkelly/2020/05/19/after-announcing-twitters-permanent-work-from-home-policy-jack-dorsey-extends-same-courtesy-to-square-employees-this-could-change-the-way-people-work-where-they-live-and-how-much-theyll-be-paid/#26153697614b)
 - [Coinbase](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7)
@@ -212,7 +211,7 @@ Brazil
 - [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
 - [Slack](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok)
 
-### General News and Tips
+#### General News and Tips
 
 - [Why Finland leads the World in Flexible Work](https://www.bbc.com/worklife/article/20190807-why-finland-leads-the-world-in-flexible-work)
 - [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
@@ -228,7 +227,7 @@ Brazil
 Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
 
-### Macroeconomy
+#### Macroeconomy
 
 - [Remote Work is reshaping San Francisco as tech workers flee and rents fall](https://www.foxbusiness.com/technology/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall)
 
@@ -248,18 +247,18 @@ Portuguese Only
 
 ## Stay in Touch
 
-### Slack Communities
+#### Slack Communities
 - [OwlLabs - Communites](https://www.owllabs.com/blog/remote-work-slack-communities)
 - [Work Remotely](https://slofile.com/slack/workremotely)
 
-## General Info
+#### General Info
 - [How Telecommuting saves money and the planet too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
 - [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
 - [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/)
 - [11 Great Reasons You Should Embrace Remote Work](https://blog.hubstaff.com/benefits-working-remotely-companies/)
 - [Why Remote Work Beats the Office Every Time](https://blog.hubstaff.com/why-remote-work-is-better/)
 
-### Events
+#### Events
 - [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
 - [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
 
