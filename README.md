@@ -83,23 +83,47 @@ Join the Global Remote Workforce Repository
 
 ## News
 
-### English
+### Reports
+
+- [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
+- [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
+- [Delloite - Remote work](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/human-capital/sg-hc-remote-work.pdf)
+
+### Permanent Migration
+
+- [Twitter and Square](https://www.forbes.com/sites/jackkelly/2020/05/19/after-announcing-twitters-permanent-work-from-home-policy-jack-dorsey-extends-same-courtesy-to-square-employees-this-could-change-the-way-people-work-where-they-live-and-how-much-theyll-be-paid/#26153697614b)
+- [Coinbase](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7)
+- [Atlassian](https://www.smartcompany.com.au/startupsmart/news/atlassian-remote-work-permanent/)
+- [Gitlab](https://www.wsj.com/articles/the-office-of-the-future-is-no-office-at-all-says-startup-11557912601?mod=article_inline)
+- [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
+
+### General News
+
 - [Why Finland leads the World in Flexible Work](https://www.bbc.com/worklife/article/20190807-why-finland-leads-the-world-in-flexible-work)
 - [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
-- [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
 - [We Work Remotely - History of Remote Work](https://weworkremotely.com/history-of-remote-work)
 - [54% of adults want to work remotely most of the time after the pandemic, according to a new study from IBM](https://www.businessinsider.com/54-percent-adults-want-mainly-work-remote-after-pandemic-study-2020-5)
 - [Havard Business Review - Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
-- [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
+- [Should companies rush headlong into permanent remote work?](https://www.globaltrademag.com/should-companies-rush-headlong-into-permanent-remote-work/)
+- [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
+- [How to negotiate a permanent work-from-home arrangement](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
 
-### Português
+* Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
+
+### Macroeconomy
+
+- [Remote Work is reshaping San Francisco as tech workers flee and rents fall](https://www.foxbusiness.com/technology/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall)
 
 ## Trends / Future of Work
 - [We Work Remotely - Remote Work Trends](https://weworkremotely.com/remote-work-trends)
 - [UpWork - Future Workforce](https://www.upwork.com/i/future-workforce/fw/2020/)
 - [Buffer - State of Remote Work 2019](https://buffer.com/state-of-remote-work-2019)
 - [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
+- [Prudential - American Worker Survey: Living the Future of Work](https://news.prudential.com/presskits/prudentials-pulse-american-worker-survey-living-future-work.htm)
+
+## Formal Study
+- [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
 
 ## Stay in Touch
 
