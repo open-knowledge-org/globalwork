@@ -123,6 +123,7 @@ Hot Topics :fire:
 - [Atlassian](https://www.smartcompany.com.au/startupsmart/news/atlassian-remote-work-permanent/)
 - [Gitlab](https://www.wsj.com/articles/the-office-of-the-future-is-no-office-at-all-says-startup-11557912601?mod=article_inline)
 - [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
+- [Slack](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok)
 
 ### General News and Tips
 
