@@ -56,6 +56,7 @@ Hot Topics :fire:
 - [Taskade](https://www.taskade.com/) - Realtime organization and collaboration tool for getting things done.
 - [1password](https://1password.com/) - Password management
 - [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
+- [Twist](https://twist.com/) - Eases team communication by keeping conversations organized, structured and on-topic
 
 ## Gadgets and Productivity
 
@@ -99,6 +100,7 @@ Hot Topics :fire:
 - [OWL Labs - Remote Work Interviews](https://www.owllabs.com/remote-work-interviews)
 - [HubStaff - No Excuses: The Definitive Guide to Managing a Remote Team](https://blog.hubstaff.com/remote-team-management/)
 - [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
+- [Twist - Remote Work Guideline](https://twist.com/remote-work-guides/remote-work)
 
 ## Langague Improvements
 - [Italki](https://www.italki.com/?hl=pt)
@@ -145,6 +147,8 @@ Portuguese Only
 - [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
 - [Prudential - American Worker Survey: Living the Future of Work](https://news.prudential.com/presskits/prudentials-pulse-american-worker-survey-living-future-work.htm)
 - [We Work Remotely - The History, Evolution and Future of Remote Work](https://weworkremotely.com/history-of-remote-work)
+- [Visual Capitalist - The Future of Remote Work, According to Startups](https://www.visualcapitalist.com/the-future-of-remote-work-according-to-startups/)
+- [Microsoft - The Virtual Office of the Future: Are Centralized Workplaces Obsolete?](https://www.microsoft.com/en-us/research/publication/the-virtual-office-of-the-future-are-centralized-workplaces-obsolete/)
 
 ## Formal Study
 - [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
