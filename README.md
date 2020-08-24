@@ -149,6 +149,7 @@ Portuguese Only
 - [We Work Remotely - The History, Evolution and Future of Remote Work](https://weworkremotely.com/history-of-remote-work)
 - [Visual Capitalist - The Future of Remote Work, According to Startups](https://www.visualcapitalist.com/the-future-of-remote-work-according-to-startups/)
 - [Microsoft - The Virtual Office of the Future: Are Centralized Workplaces Obsolete?](https://www.microsoft.com/en-us/research/publication/the-virtual-office-of-the-future-are-centralized-workplaces-obsolete/)
+- [NPR - Get A Comfortable Chair: Permanent Work From Home Is Coming](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
 
 ## Formal Study
 - [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
