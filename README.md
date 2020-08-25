@@ -23,6 +23,7 @@ Hot Topics :fire:
 
 Portuguese Only
 - [Grok Podcast: Episódio 86 Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/) | [Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/) | [Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/) | [Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/) | [Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
+- [Desenvolvedor Remoto na Filadélfia, Estados Unidos – Carreira sem Fronteiras #77](https://open.spotify.com/episode/30ImIAYDdOh4WesT1PyOAy?si=SZ_DQeQWT_K28qDZPMASjw)
 
 
 ## Blogs
@@ -60,6 +61,22 @@ Portuguese Only
 - [Twist](https://twist.com/), eases team communication by keeping conversations organized, structured and on-topic
 - [Discourse](https://www.discourse.org/), private forum tool
 - [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
+- [Leverice](https://leverice.com/)
+- [Involve](https://www.involvesoft.com/)
+- [Around](https://www.around.co/)
+- [Grain](https://grain.co/)
+- [Happeo](https://www.happeo.com/), An intranet, enterprise social network, and collaboration platform that lets your communications flow seamlessly, making work a happier place for all
+- [Jitsi](https://jitsi.org/)
+
+#### AI Assistant for Your Meetings
+- [Fireflies.ai](https://fireflies.ai/), Record, Transcribe and Search across your voice conversations
+- [Otter.ai](https://otter.ai/), Generate rich notes for meetings, interviews, lectures, and other important voice conversations with Otter, your AI-powered assistant
+- [Colibri.ai](https://colibri.ai/), Colibri.ai records your calls, transcribes them as you speak, and generates concise searchable meeting notes that can be easily shared with teammates.
+
+#### Virtual Office
+- [Pragli](https://pragli.com/), Virtual office for remote teams
+- [Tandem](https://tandem.chat/), Re-discover the flow of working together in‑person. See, talk to, and collaborate with your team in one click.
+- [Teemly](https://teemly.net/), The virtual office truly connecting distributed teams
 
 #### Collaboration
 - [PukkaTeam](https://pukkateam.com), remote team presence tool.
@@ -70,11 +87,17 @@ Portuguese Only
 - [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
 - [Taskade](https://taskade.com) - Create notes, checklists, and outlines with your team. Collaborate and edit together in real-time.
 - [Quip](https://quip.com/)
+- [Mural](https://www.mural.co/), a digital workspace for visual collaboration
+- [IdeaFlow](https://www.ideaflow.io/)
+- [BeeCanvas](https://early-access.beecanvas.com/)
 
 #### Focus
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) 
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
 - [ColdTurkey (Windows)](http://getcoldturkey.com/)
+- [Focus At Will](https://www.focusatwill.com/)
+- [ForestApp](https://www.forestapp.cc/?ref=nodesk.co)
+
 
 #### Project Management
 - [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
@@ -82,6 +105,7 @@ Portuguese Only
 - [Asana](https://asana.com/), team collaboration, projects and tasks management.
 - [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks.
 - [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
+- [Standuply](https://standuply.com/), Project Management Assistant
 
 #### Noise Cancelling
 - [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
@@ -116,6 +140,10 @@ Portuguese Only
 - [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+
+### Bots
+- [GeekBot](https://geekbot.com/)
+- [Dailybot](https://www.dailybot.com/)
 
 #### Music
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
@@ -184,6 +212,12 @@ Brazil
 - [Harvest](https://www.getharvest.com/)
 - [BlinkSale](https://blinksale.com/home-alt/?utm_expid=.yA0-aQ5lTbClawUM7e0-cg.1&utm_referrer=)
 
+#### Global Workforce Management
+- [Remote.com](http://remote.com/country-explorer)
+- [Remote Team](https://www.remoteteam.com/)
+- [Pilot.co](https://pilot.co/)
+- [Papaya Global](https://papayaglobal.com/)
+
 ## Culture and Guides
 - [Why Remote Work Leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
 - [Gitlab - The remote manifesto](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
@@ -210,6 +244,8 @@ Brazil
 - [Gitlab](https://www.wsj.com/articles/the-office-of-the-future-is-no-office-at-all-says-startup-11557912601?mod=article_inline)
 - [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
 - [Slack](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok)
+- [Zillow](https://www.zillowgroup.com/zillow-announces-indefinite-work-from-home-policy/)
+
 
 #### General News and Tips
 
@@ -223,6 +259,9 @@ Brazil
 - [Remote Software Development](https://remotework.softwaremill.com/send?hash=69cff64dca92e8201b3c5ec99e447fe0&utm_source=runningremote)
 - [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
 - [Work From Home List](https://wfhlist.io), an Open List of Work From Home Software & Hardware tools.
+- [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL?curator=nodesk.co)
+- [The Workforce Is About to Change Dramatically](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/)
+- [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
 
 Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
