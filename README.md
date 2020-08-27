@@ -19,11 +19,14 @@ A collaborative list of great resources about remote work, global workforce and 
 - [Digital Nomad Podcast](https://open.spotify.com/show/6zr17E3vnAQtcTqlEIMAh5?si=myZGwS1iQI2dDTSb_ZXQRw)
 - [Remote Control](https://open.spotify.com/show/2EIm5LPRLhC84joiNol16n?si=ScH0SBF5RniFDl1MpVEkRw)
 - [Bulding Remote Teams](https://open.spotify.com/show/0K2Wc0vfjoVM91cbk9jwLc?si=KgNq9bneQ1mph4ecDWsDiw)
+- [GitLab's Universal Remote Podcast](https://open.spotify.com/show/7LwY2YGQWKFHGLMxtpzIcp?si=wlIdA3pRTImOcTY_UuXdAA)
 
 Hot Topics :fire:
 - [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
 - [Raj Choudhury Sees a Future Where You Don’t Have to Move Your Family for a Job Distributed, with Matt Mullenweg](https://open.spotify.com/episode/2fobG97dnxaNdXgIsMQFPG?si=xRu1TBSGSwSfyTzG4IGTFA)
 - [Shaping The Future Of Remote Work with Iwo Szapar](https://open.spotify.com/episode/3EVt5mK5HN9iOerq01Vmur?si=c-KD7idUQz2xFiHK_nTplQ)
+- [Managing 30 Engineers Remotely at Digital Ocean](https://open.spotify.com/episode/7972jnD7iQUdMwpsOPsf8p?si=Bp3FhJa-TwatvxscYv-XQA)
+- [The Socioeconomics of Remote](https://open.spotify.com/episode/32HeB8QP6v4BNjXLrfFgeK?si=PJ9URA5xRWCYz5-Nt8t9uQ)
 
 Portuguese Only
 - [Grok Podcast: Episódio 86 Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/) | [Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/) | [Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/) | [Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/) | [Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
