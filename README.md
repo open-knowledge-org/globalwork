@@ -23,7 +23,8 @@ Hot Topics :fire:
 
 Portuguese Only
 - [Grok Podcast: Episódio 86 Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/) | [Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/) | [Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/) | [Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/) | [Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
-- [Desenvolvedor Remoto na Filadélfia, Estados Unidos – Carreira sem Fronteiras #77](https://open.spotify.com/episode/30ImIAYDdOh4WesT1PyOAy?si=SZ_DQeQWT_K28qDZPMASjw)
+- [Carreira sem Fronteiras #77 - Desenvolvedor Remoto na Filadélfia, Estados Unidos](https://open.spotify.com/episode/30ImIAYDdOh4WesT1PyOAy?si=SZ_DQeQWT_K28qDZPMASjw)
+- [Hispter #194 - Guia do Home Office](https://open.spotify.com/episode/3aintNhQOHIN4SK6NbnivF?si=rzyLgQgFTpaJxuMRVLnS2Q)
 
 
 ## Blogs
