@@ -17,6 +17,8 @@ A collaborative list of great resources about remote work, global workforce and 
 - [Running Remote](https://runningremote.com/remote-work-podcast/)
 - [Yonder.io](https://www.yonder.io/post/ep-88-running-remotes-egor-borushko)
 - [Digital Nomad Podcast](https://open.spotify.com/show/6zr17E3vnAQtcTqlEIMAh5?si=myZGwS1iQI2dDTSb_ZXQRw)
+- [Remote Control](https://open.spotify.com/show/2EIm5LPRLhC84joiNol16n?si=ScH0SBF5RniFDl1MpVEkRw)
+- [Bulding Remote Teams](https://open.spotify.com/show/0K2Wc0vfjoVM91cbk9jwLc?si=KgNq9bneQ1mph4ecDWsDiw)
 
 Hot Topics :fire:
 - [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
