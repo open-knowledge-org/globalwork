@@ -5,148 +5,168 @@ A collaborative list of great resources about remote work, global workforce and 
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).* :pencil2:
 
+*To a better understanding about the icons used on this page, you may be aware about some information: :white_check_mark: indicates an item already used and approved by our direct contributors, :ballot_box_with_check: indicates an item already checked by our partners and references, :white_circle: indicates an item that is relevant and has high amount of users however was not tested by us yet.* 
+
 ## Books
 
-- [Remote : Office Not Required](http://37signals.com/remote/)
-- [It Doesn’t Have to be Crazy at Work by Jason Fried and David Hansson Heinemeier Hansson](https://www.amazon.ca/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_1?keywords=It+Doesn%E2%80%99t+Have+to+be+Crazy+at+Work&qid=1561503293&s=gateway&sr=8-1)
-- [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver by Johanna Rothman and Mark Kilby](https://www.amazon.ca/Chaos-Successful-Distributed-Agile-Teams-ebook/dp/B07PRYM1TF/ref=sr_1_1?keywords=From+Chaos+to+Successful+Distributed+Agile+Teams%3A+Collaborate+to+Deliver&qid=1561503315&s=gateway&sr=8-1)
-- [The Year Without Pants: WordPress.com and the Future of Work](https://www.amazon.com/gp/product/1118660633/?tag=scottberkunco-20)
+- :white_check_mark: [Remote : Office Not Required](http://37signals.com/remote/)
+- :ballot_box_with_check: [It Doesn’t Have to be Crazy at Work by Jason Fried and David Hansson Heinemeier Hansson](https://www.amazon.ca/Doesnt-Have-Be-Crazy-Work/dp/0062874780/ref=sr_1_1?keywords=It+Doesn%E2%80%99t+Have+to+be+Crazy+at+Work&qid=1561503293&s=gateway&sr=8-1)
+- :ballot_box_with_check: [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver by Johanna Rothman and Mark Kilby](https://www.amazon.ca/Chaos-Successful-Distributed-Agile-Teams-ebook/dp/B07PRYM1TF/ref=sr_1_1?keywords=From+Chaos+to+Successful+Distributed+Agile+Teams%3A+Collaborate+to+Deliver&qid=1561503315&s=gateway&sr=8-1)
+- :white_circle: [The Year Without Pants: WordPress.com and the Future of Work](https://www.amazon.com/gp/product/1118660633/?tag=scottberkunco-20)
 
 ## Podcasts
-- [Distributed](https://open.spotify.com/show/59bljZU7v9cJTXKvlfnFN8)
-- [Running Remote](https://runningremote.com/remote-work-podcast/)
-- [Yonder.io](https://www.yonder.io/post/ep-88-running-remotes-egor-borushko)
-- [Digital Nomad Podcast](https://open.spotify.com/show/6zr17E3vnAQtcTqlEIMAh5?si=myZGwS1iQI2dDTSb_ZXQRw)
-- [Remote Control](https://open.spotify.com/show/2EIm5LPRLhC84joiNol16n?si=ScH0SBF5RniFDl1MpVEkRw)
-- [Bulding Remote Teams](https://open.spotify.com/show/0K2Wc0vfjoVM91cbk9jwLc?si=KgNq9bneQ1mph4ecDWsDiw)
-- [GitLab's Universal Remote Podcast](https://open.spotify.com/show/7LwY2YGQWKFHGLMxtpzIcp?si=wlIdA3pRTImOcTY_UuXdAA)
+- :white_check_mark: [Distributed](https://open.spotify.com/show/59bljZU7v9cJTXKvlfnFN8)
+- :white_check_mark: [Running Remote](https://runningremote.com/remote-work-podcast/)
+- :white_check_mark: [Yonder.io](https://www.yonder.io/post/ep-88-running-remotes-egor-borushko)
+- :white_check_mark: [Digital Nomad Podcast](https://open.spotify.com/show/6zr17E3vnAQtcTqlEIMAh5?si=myZGwS1iQI2dDTSb_ZXQRw)
+- :white_check_mark: [Remote Control](https://open.spotify.com/show/2EIm5LPRLhC84joiNol16n?si=ScH0SBF5RniFDl1MpVEkRw)
+- :white_check_mark: [Bulding Remote Teams](https://open.spotify.com/show/0K2Wc0vfjoVM91cbk9jwLc?si=KgNq9bneQ1mph4ecDWsDiw)
+- :white_check_mark: [GitLab's Universal Remote Podcast](https://open.spotify.com/show/7LwY2YGQWKFHGLMxtpzIcp?si=wlIdA3pRTImOcTY_UuXdAA)
 
 Hot Topics :fire:
-- [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
-- [Raj Choudhury Sees a Future Where You Don’t Have to Move Your Family for a Job Distributed, with Matt Mullenweg](https://open.spotify.com/episode/2fobG97dnxaNdXgIsMQFPG?si=xRu1TBSGSwSfyTzG4IGTFA)
-- [Shaping The Future Of Remote Work with Iwo Szapar](https://open.spotify.com/episode/3EVt5mK5HN9iOerq01Vmur?si=c-KD7idUQz2xFiHK_nTplQ)
-- [Managing 30 Engineers Remotely at Digital Ocean](https://open.spotify.com/episode/7972jnD7iQUdMwpsOPsf8p?si=Bp3FhJa-TwatvxscYv-XQA)
-- [The Socioeconomics of Remote](https://open.spotify.com/episode/32HeB8QP6v4BNjXLrfFgeK?si=PJ9URA5xRWCYz5-Nt8t9uQ)
+- :white_check_mark: [Upwork’s Stephane Kasriel on Fixing the American Dream Distributed, with Matt Mullenweg](https://open.spotify.com/episode/7mE08x9LR3f5yXFv12btlZ?si=CFmNndicT_aUVorpIyZ-Ew)
+- :white_check_mark: [Raj Choudhury Sees a Future Where You Don’t Have to Move Your Family for a Job Distributed, with Matt Mullenweg](https://open.spotify.com/episode/2fobG97dnxaNdXgIsMQFPG?si=xRu1TBSGSwSfyTzG4IGTFA)
+- :white_check_mark: [Shaping The Future Of Remote Work with Iwo Szapar](https://open.spotify.com/episode/3EVt5mK5HN9iOerq01Vmur?si=c-KD7idUQz2xFiHK_nTplQ)
+- :white_check_mark: [Managing 30 Engineers Remotely at Digital Ocean](https://open.spotify.com/episode/7972jnD7iQUdMwpsOPsf8p?si=Bp3FhJa-TwatvxscYv-XQA)
+- :white_check_mark: [The Socioeconomics of Remote](https://open.spotify.com/episode/32HeB8QP6v4BNjXLrfFgeK?si=PJ9URA5xRWCYz5-Nt8t9uQ)
 
 Portuguese Only
-- [Grok Podcast: Episódio 86 Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/) | [Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/) | [Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/) | [Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/) | [Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
-- [Carreira sem Fronteiras #77 - Desenvolvedor Remoto na Filadélfia, Estados Unidos](https://open.spotify.com/episode/30ImIAYDdOh4WesT1PyOAy?si=SZ_DQeQWT_K28qDZPMASjw)
-- [Hispter #194 - Guia do Home Office](https://open.spotify.com/episode/3aintNhQOHIN4SK6NbnivF?si=rzyLgQgFTpaJxuMRVLnS2Q)
+- :white_check_mark: [Grok Podcast: Episódio 86 Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/) | [Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/) | [Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/) | [Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/) | [Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
+- :white_check_mark: [Carreira sem Fronteiras #77 - Desenvolvedor Remoto na Filadélfia, Estados Unidos](https://open.spotify.com/episode/30ImIAYDdOh4WesT1PyOAy?si=SZ_DQeQWT_K28qDZPMASjw)
+- :white_check_mark: [Hispter #194 - Guia do Home Office](https://open.spotify.com/episode/3aintNhQOHIN4SK6NbnivF?si=rzyLgQgFTpaJxuMRVLnS2Q)
 
 
 ## Blogs
-- [Matt](https://ma.tt/)
-- [We Work Remotely Readings](https://weworkremotely.com/remote-work-resources/reading)
-- [Google - Working together when were not together](https://blog.google/inside-google/working-google/working-together-when-were-not-together/)
-- [Remote Work Report](https://usefyi.com/remote-work-report/)
-- [Doist - Remote Work](https://doist.com/blog/category/remote-work/)
-- [Angel.co - Why Naval Ravikant thinks remote work is the future](https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
-- [Will remote work ever become mainstream?](https://thenextweb.com/contributors/2018/03/11/will-remote-work-ever-become-mainstream/)
-- [Hubstaff - Remote](https://blog.hubstaff.com/remote/)
-- [Remote Work Tips](https://usefyi.com/remote-work-tips/)
-- [OwlLabs Blog](https://www.owllabs.com/blog)
-- [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
-- [Miro Blog](https://miro.com/guides/remote-work/)
-- [Know your team](https://knowyourteam.com/blog/)
-- [Signal v. Noise](https://signalvnoise.com/)
+- :white_check_mark: [Matt](https://ma.tt/)
+- :white_check_mark: [We Work Remotely Readings](https://weworkremotely.com/remote-work-resources/reading)
+- :white_check_mark: [Google - Working together when were not together](https://blog.google/inside-google/working-google/working-together-when-were-not-together/)
+- :white_check_mark: [Remote Work Report](https://usefyi.com/remote-work-report/)
+- :white_check_mark: [Doist - Remote Work](https://doist.com/blog/category/remote-work/)
+- :white_check_mark: [Angel.co - Why Naval Ravikant thinks remote work is the future](https://angel.co/blog/why-naval-ravikant-thinks-remote-work-is-the-future)
+- :white_check_mark: [Will remote work ever become mainstream?](https://thenextweb.com/contributors/2018/03/11/will-remote-work-ever-become-mainstream/)
+- :white_check_mark: [Hubstaff - Remote](https://blog.hubstaff.com/remote/)
+- :white_check_mark: [Remote Work Tips](https://usefyi.com/remote-work-tips/)
+- :white_check_mark: [OwlLabs Blog](https://www.owllabs.com/blog)
+- :white_check_mark: [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
+- :white_check_mark: [Miro Blog](https://miro.com/guides/remote-work/)
+- :white_check_mark: [Know your team](https://knowyourteam.com/blog/)
+- :white_check_mark: [Signal v. Noise](https://signalvnoise.com/)
 
 ## Tools
 
 #### Communication
 
-- [Google Hangouts](https://hangouts.google.com/)
-- [Slack](https://slack.com/)
-- [Chanty](https://www.chanty.com/)
-- [CA Flowdock](https://www.flowdock.com/)
-- [Gitter](https://gitter.im)
-- [IRCCloud](https://www.irccloud.com/)
-- [Skype](http://www.skype.com/)
-- [Rocket Chat](https://rocket.chat/)
-- [Self Hosted Mumble](https://www.mumble.info/)
-- [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
-- [Zoom](https://zoom.us)
-- [Twitch](https://www.twitch.tv/), streaming and communication tool
-- [Twist](https://twist.com/), eases team communication by keeping conversations organized, structured and on-topic
-- [Discourse](https://www.discourse.org/), private forum tool
-- [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
-- [Leverice](https://leverice.com/)
-- [Involve](https://www.involvesoft.com/)
-- [Around](https://www.around.co/)
-- [Grain](https://grain.co/)
-- [Happeo](https://www.happeo.com/), An intranet, enterprise social network, and collaboration platform that lets your communications flow seamlessly, making work a happier place for all
-- [Jitsi](https://jitsi.org/)
+- :white_check_mark: [Google Hangouts](https://hangouts.google.com/)
+- :white_check_mark: [Slack](https://slack.com/)
+- :ballot_box_with_check: [Chanty](https://www.chanty.com/)
+- :ballot_box_with_check: [CA Flowdock](https://www.flowdock.com/)
+- :ballot_box_with_check: [Gitter](https://gitter.im)
+- :ballot_box_with_check: [IRCCloud](https://www.irccloud.com/)
+- :white_check_mark: [Skype](http://www.skype.com/)
+- :ballot_box_with_check: [Rocket Chat](https://rocket.chat/)
+- :ballot_box_with_check: [Self Hosted Mumble](https://www.mumble.info/)
+- :ballot_box_with_check: [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
+- :white_check_mark: [Zoom](https://zoom.us)
+- :ballot_box_with_check: [Twitch](https://www.twitch.tv/), streaming and communication tool
+- :ballot_box_with_check: [Twist](https://twist.com/), eases team communication by keeping conversations organized, structured and on-topic
+- :ballot_box_with_check: [Discourse](https://www.discourse.org/), private forum tool
+- :ballot_box_with_check: [join.me](http://join.me) - The easiest way to organise group conferences with support for scheduling, video, whiteboarding and screen sharing.
+- :ballot_box_with_check: [Leverice](https://leverice.com/)
+- :ballot_box_with_check: [Involve](https://www.involvesoft.com/)
+- :ballot_box_with_check: [Around](https://www.around.co/)
+- :ballot_box_with_check: [Grain](https://grain.co/)
+- :ballot_box_with_check: [Happeo](https://www.happeo.com/), An intranet, enterprise social network, and collaboration platform that lets your communications flow seamlessly, making work a happier place for all
+- :ballot_box_with_check: [Jitsi](https://jitsi.org/)
 
 #### AI Assistant for Your Meetings
-- [Fireflies.ai](https://fireflies.ai/), Record, Transcribe and Search across your voice conversations
-- [Otter.ai](https://otter.ai/), Generate rich notes for meetings, interviews, lectures, and other important voice conversations with Otter, your AI-powered assistant
-- [Colibri.ai](https://colibri.ai/), Colibri.ai records your calls, transcribes them as you speak, and generates concise searchable meeting notes that can be easily shared with teammates.
+- :ballot_box_with_check: [Fireflies.ai](https://fireflies.ai/), Record, Transcribe and Search across your voice conversations
+- :ballot_box_with_check: [Otter.ai](https://otter.ai/), Generate rich notes for meetings, interviews, lectures, and other important voice conversations with Otter, your AI-powered assistant
+- :ballot_box_with_check: [Colibri.ai](https://colibri.ai/), Colibri.ai records your calls, transcribes them as you speak, and generates concise searchable meeting notes that can be easily shared with teammates.
 
 #### Virtual Office
-- [Pragli](https://pragli.com/), Virtual office for remote teams
-- [Tandem](https://tandem.chat/), Re-discover the flow of working together in‑person. See, talk to, and collaborate with your team in one click.
-- [Teemly](https://teemly.net/), The virtual office truly connecting distributed teams
+- :ballot_box_with_check: [Pragli](https://pragli.com/), Virtual office for remote teams
+- :ballot_box_with_check: [Tandem](https://tandem.chat/), Re-discover the flow of working together in‑person. See, talk to, and collaborate with your team in one click.
+- :ballot_box_with_check: [Teemly](https://teemly.net/), The virtual office truly connecting distributed teams
 
 #### Collaboration
-- [PukkaTeam](https://pukkateam.com), remote team presence tool.
-- [Miro](https://miro.com/blog/category/remote-collaboration/)
-- [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
-- [I Done This](https://home.idonethis.com) - More than 160,000 people use I Done This’s easy daily check-ins and powerful progress reports to run more effective and productive teams.
-- [Timezone.io](https://timezone.io) - Keep track of 'when' and 'where' your remote team members are. Easily organise meetings at a time suitable for everyone involved.
-- [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
-- [Taskade](https://taskade.com) - Create notes, checklists, and outlines with your team. Collaborate and edit together in real-time.
-- [Quip](https://quip.com/)
-- [Mural](https://www.mural.co/), a digital workspace for visual collaboration
-- [IdeaFlow](https://www.ideaflow.io/)
-- [BeeCanvas](https://early-access.beecanvas.com/)
+- :ballot_box_with_check: [PukkaTeam](https://pukkateam.com), remote team presence tool.
+- :ballot_box_with_check: [Miro](https://miro.com/blog/category/remote-collaboration/)
+- :ballot_box_with_check: [Standup Bot](https://standupbot.com) - Run your standup meetings remotely via Slack and have your meeting notes automatically organised for you.
+- :ballot_box_with_check: [I Done This](https://home.idonethis.com) - More than 160,000 people use I Done This’s easy daily check-ins and powerful progress reports to run more effective and productive teams.
+- :white_check_mark: [Timezone.io](https://timezone.io) - Keep track of 'when' and 'where' your remote team members are. Easily organise meetings at a time suitable for everyone involved.
+- :white_check_mark: [Dropbox Paper](https://www.dropbox.com/paper) - Collaborate on documents and ideas with your remote colleagues using this flexible workspace.
+- :ballot_box_with_check: [Taskade](https://taskade.com) - Create notes, checklists, and outlines with your team. Collaborate and edit together in real-time.
+- :ballot_box_with_check: [Quip](https://quip.com/)
+- :ballot_box_with_check: [Mural](https://www.mural.co/), a digital workspace for visual collaboration
+- :ballot_box_with_check: [IdeaFlow](https://www.ideaflow.io/)
+- :ballot_box_with_check: [BeeCanvas](https://early-access.beecanvas.com/)
 
 #### Focus
-- [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) 
-- [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
-- [ColdTurkey (Windows)](http://getcoldturkey.com/)
-- [Focus At Will](https://www.focusatwill.com/)
-- [ForestApp](https://www.forestapp.cc/?ref=nodesk.co)
-
+- :ballot_box_with_check: [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) 
+- :ballot_box_with_check: [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
+- :ballot_box_with_check: [ColdTurkey (Windows)](http://getcoldturkey.com/)
+- :ballot_box_with_check: [Focus At Will](https://www.focusatwill.com/)
+- :white_check_mark: [ForestApp](https://www.forestapp.cc/?ref=nodesk.co)
 
 #### Project Management
-- [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
-- [Wrike](https://wrike.com/)
-- [Asana](https://asana.com/), team collaboration, projects and tasks management.
-- [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks.
-- [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
-- [Standuply](https://standuply.com/), Project Management Assistant
+- :white_check_mark: [Asana](https://asana.com/), team collaboration, projects and tasks management.
+- :ballot_box_with_check: [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
+- :ballot_box_with_check: [Standuply](https://standuply.com/), Project Management Assistant
+
+#### Agile Management
+
+SAFe-ready
+- :white_check_mark: [Version One](https://www.collab.net/products/versionone), SAFe-ready agile management tool :fire:
+- :white_check_mark: [CA Agile Central - Rally](https://www.broadcom.com/products/software/agile-development/rally-software), SAFe-ready agile management tool :fire:
+- :white_check_mark: [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks
+- :ballot_box_with_check: [GitLab](https://about.gitlab.com/solutions/agile-delivery/)
+- :white_check_mark: [Jira](https://www.atlassian.com/software/jira)
+- :white_check_mark: [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/)
+
+Scrum-based or Kanban-based
+- :white_check_mark: [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
+- :ballot_box_with_check: [Monday.com](monday.com)
+- :ballot_box_with_check: [Taiga](https://taiga.io/)
+- :ballot_box_with_check: [Wrike](https://wrike.com/)
+
+#### Knowledge Management
+- :white_check_mark: [Confluence](https://www.atlassian.com/br/software/confluence) :fire:
+- :white_circle: [Document360](https://document360.io/)
+- :white_circle: [Knowmax](https://knowmax.ai/)
+- :white_check_mark: [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), an open-source solution for knowledge management
 
 #### Noise Cancelling
-- [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
+- :ballot_box_with_check: [Krisp AI](https://krisp.ai/pt/) - Noise Cancelling
 
 #### Security
-- [1password](https://1password.com/), password management
-- [Cloak](https://getcloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
-- [Authy](https://authy.com) - The best choice for cross platform two-factor authentication.
-- [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
-- [Ghostery](https://www.ghostery.com/products/) - Fantastic extension for blocking trackers in all major web browsers.
+- :ballot_box_with_check: [1password](https://1password.com/), password management
+- :ballot_box_with_check: [Cloak](https://getcloak.com) - Having a secure VPN service is important when using public wifi networks. Cloak is a great choice in the Apple ecosystem with beautiful apps for Mac and iOS.
+- :ballot_box_with_check: [Authy](https://authy.com) - The best choice for cross platform two-factor authentication.
+- :ballot_box_with_check: [Purify](https://purify-app.com) - The most efficient app for blocking ads & trackers on iOS.
+- :ballot_box_with_check: [Ghostery](https://www.ghostery.com/products/) - Fantastic extension for blocking trackers in all major web browsers.
 
 #### Backup
-- [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
-- [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
-- [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
-- [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
+- :white_check_mark: [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
+- :white_check_mark: [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
+- :ballot_box_with_check: [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
+- :ballot_box_with_check: [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
 
 #### Time Tracking
-- [Timing](https://timingapp.com/), automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
-- [Desktime](http://desktime.com/), time tracking tool.
-- [Harvest](https://www.getharvest.com/), a timesheet tracking software.
-- [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
-- [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
-- [Taskade](https://www.taskade.com/), realtime organization and collaboration tool for getting things done.
+- :ballot_box_with_check: [Timing](https://timingapp.com/), automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly.
+- :ballot_box_with_check: [Desktime](http://desktime.com/), time tracking tool.
+- :ballot_box_with_check: [Harvest](https://www.getharvest.com/), a timesheet tracking software.
+- :ballot_box_with_check: [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
+- :ballot_box_with_check: [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
+- :ballot_box_with_check: [Taskade](https://www.taskade.com/), realtime organization and collaboration tool for getting things done.
 
 #### Langagues
-- [Italki](https://www.italki.com/?hl=pt)
+- :white_check_mark: [Italki](https://www.italki.com/?hl=pt)
 - [Write and Improve](https://writeandimprove.com/workbooks#/wi-workbooks/bdc648bc-b760-4bac-98bc-161a95deff5e/tasks/582c6699-5ab0-4a63-bd54-6296766cf88c)
-- [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
+- :white_check_mark: [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
 - [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
 - [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
 - [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
-- [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
+- :white_check_mark: [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
 ### Bots
@@ -155,14 +175,13 @@ Portuguese Only
 
 #### Music
 - [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
-- [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
-- [Deep Focus Music](https://www.youtube.com/watch?v=ceGLEhahLKQ)
-- [Calm App](https://www.calm.com/)
+- :white_check_mark: [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
+- :white_check_mark: [Deep Focus Music](https://www.youtube.com/watch?v=ceGLEhahLKQ)
+- :white_check_mark: [Calm App](https://www.calm.com/)
 
 #### Extended Display
 - [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
 - [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
-
 
 #### Gadgets and Productivity
 
@@ -191,6 +210,13 @@ Brazil
 - [Monitor Support ELG F80N](https://www.amazon.com.br/Suporte-Monitor-Elg-F80N-Preto/dp/B0765KZ264/ref=asc_df_B0765KZ264/?tag=googleshopp00-20&linkCode=df0&hvadid=379685351949&hvpos=&hvnetw=g&hvrand=17048040831699725556&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031712&hvtargid=pla-809485465373&psc=1)
 - [Cable Organizer Glorila Shield](https://www.gorilashield.com.br/organizador-de-cabos-gorila-shield)
 - [Necessaire Guardian Glorila Shield](https://www.gorilashield.com.br/necessaire-guardian-gorila-shield)
+
+#### Continuous Integration
+- [CircleCI](https://circleci.com/)
+- [Bamboo](https://www.atlassian.com/br/software/bamboo/features)
+- [Jenkins](https://www.jenkins.io/), open source CI/CD Server
+- [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
+- [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
 ## Remote Team Management
 - [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
