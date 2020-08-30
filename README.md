@@ -273,7 +273,7 @@ Brazil
 
 Portuguese Only
 - [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
-
+- [Jus.com.br - Home-Office a luz da lei 13.467/2017](https://jus.com.br/artigos/72476/home-office-a-luz-da-lei-n-13-467-2017)
 #### Macroeconomy
 
 - [Remote Work is reshaping San Francisco as tech workers flee and rents fall](https://www.foxbusiness.com/technology/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall)
