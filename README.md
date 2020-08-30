@@ -226,6 +226,7 @@ Brazil
 - :white_check_mark: [Zapier - How to evaluate Employees](https://zapier.com/learn/remote-work/remote-employee-evaluation/)
 - :white_check_mark: [Hubstaff - Remote Onboarding](https://blog.hubstaff.com/remote-onboarding-video/)
 - :white_check_mark: [How to Help Your Remote Workers Set Long-Term Goals](https://www.yonder.io/post/how-to-help-your-remote-workers-set-long-term-goals)
+- :white_check_mark: [MIT Sloan - Leading Remotely](https://sloanreview.mit.edu/article/leading-remotely/)
 
 ## Management Playbooks
 - :white_check_mark: [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
