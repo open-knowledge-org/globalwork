@@ -163,104 +163,104 @@ Scrum-based or Kanban-based
 - :white_check_mark: [Italki](https://www.italki.com/?hl=pt)
 - [Write and Improve](https://writeandimprove.com/workbooks#/wi-workbooks/bdc648bc-b760-4bac-98bc-161a95deff5e/tasks/582c6699-5ab0-4a63-bd54-6296766cf88c)
 - :white_check_mark: [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
-- [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
-- [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
-- [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
+- :ballot_box_with_check: [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
+- :ballot_box_with_check: [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
+- :ballot_box_with_check: [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - :white_check_mark: [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
-- [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
+- :ballot_box_with_check: [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
 ### Bots
-- [GeekBot](https://geekbot.com/)
-- [Dailybot](https://www.dailybot.com/)
+- :ballot_box_with_check: [GeekBot](https://geekbot.com/)
+- :ballot_box_with_check: [Dailybot](https://www.dailybot.com/)
 
 #### Music
-- [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
+- :ballot_box_with_check: [Noizio](http://noiz.io) - Ambient sound mixer to help you focus in busy places. Parisian Cafe during a thunderstorm? Check! - _iOS and Android_.
 - :white_check_mark: [Starbucks-like Music Playlist 2020](https://www.youtube.com/watch?v=23LJkiM_hlE)
 - :white_check_mark: [Deep Focus Music](https://www.youtube.com/watch?v=ceGLEhahLKQ)
 - :white_check_mark: [Calm App](https://www.calm.com/)
 
 #### Extended Display
-- [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
-- [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
+- :ballot_box_with_check: [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
+- :ballot_box_with_check: [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
 
 #### Gadgets and Productivity
 
 International
-- [Roost Laptop Stand](http://therooststand.com) - The original portable back-saving laptop stand.
-- [Corsair Flash Voyager Mini](http://www.corsair.com/en-us/flash-voyager-mini-128gb-usb-3-0-flash-drive) - Compact and stylish USB key which packs up to 128GB of memory.
-- [Tortuga Outbreaker Backpack](http://www.tortugabackpacks.com/products/outbreaker-travel-backpack) - Pack smart with this second generation Tortuga carry on backpack.
-- [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) - A _(more stylish?)_ alternative to the Tortuga Outbreaker with similar features. Check them both out and see which you prefer.
-- [Anker Portable Chargers](https://www.anker.com/products/taxons/107/Portable%20Chargers) - USB battery packs are an essential bit of kit these days and you can't go wrong with something from Anker.
-- [Omnicharge](https://omnicharge.co) - For a portable charger that packs a bit more punch, check out the Omnicharge with its universal power outlet that will let you charge devices such as laptops in addition to your phone and tablet.
-- [Logitech MX Anywhere 2s](https://www.logitech.com/product/mx-anywhere-2s-flow) - Logitech have a track record of releasing high quality peripherals and when it comes to portable mice they don't disappoint with the MX Anywhere 2s.
-- [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
-- [JBL Clip 2](http://www.jbl.com/bluetooth-speakers/JBL+CLIP+2.html) - If you mind carrying extra weight, the JBL Clip 2 is a good option with only 184g. Quality is not as good as a stereo speaker but it still does the job pretty well.
-- [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
-- [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
-- [Google Chromecast](https://store.google.com/product/chromecast) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
-- [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B07CXG6C9W) - Highly portable, easy on the eyes, readable in sunlight, waterproof, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
-- [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
-[Duet Display](https://duetdisplay.com).
-- [Gerber Shard](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/shard-22-01769) - Want to take a multi-tool with you but can't get traditional ones past airport security without checked baggage? The Gerber Shard is a great solution to this predicament, packing six useful functions into an airline friendly form-factor.
-- [Microphone FIFINE K678](https://pt.aliexpress.com/store/4496094?spm=a2g0o.detail.1000061.1.7c9f46bc3DQ2Ah)
-- [Large Felt Mousepad](https://pt.aliexpress.com/item/32971118525.html?spm=a2g0o.productlist.0.0.57126bddXQaAPe&algo_pvid=a78f91e9-769b-467c-ad70-5c643a19f702&algo_expid=a78f91e9-769b-467c-ad70-5c643a19f702-5&btsid=0be3743b15979327322533481eb33f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
+- :ballot_box_with_check: [Roost Laptop Stand](http://therooststand.com) - The original portable back-saving laptop stand.
+- :ballot_box_with_check: [Corsair Flash Voyager Mini](http://www.corsair.com/en-us/flash-voyager-mini-128gb-usb-3-0-flash-drive) - Compact and stylish USB key which packs up to 128GB of memory.
+- :ballot_box_with_check: [Tortuga Outbreaker Backpack](http://www.tortugabackpacks.com/products/outbreaker-travel-backpack) - Pack smart with this second generation Tortuga carry on backpack.
+- :ballot_box_with_check: [Minaal Carry-on 2.0](https://www.minaal.com/products/minaal-carry-on-bag) - A _(more stylish?)_ alternative to the Tortuga Outbreaker with similar features. Check them both out and see which you prefer.
+- :ballot_box_with_check: [Anker Portable Chargers](https://www.anker.com/products/taxons/107/Portable%20Chargers) - USB battery packs are an essential bit of kit these days and you can't go wrong with something from Anker.
+- :ballot_box_with_check: [Omnicharge](https://omnicharge.co) - For a portable charger that packs a bit more punch, check out the Omnicharge with its universal power outlet that will let you charge devices such as laptops in addition to your phone and tablet.
+- :ballot_box_with_check: [Logitech MX Anywhere 2s](https://www.logitech.com/product/mx-anywhere-2s-flow) - Logitech have a track record of releasing high quality peripherals and when it comes to portable mice they don't disappoint with the MX Anywhere 2s.
+- :ballot_box_with_check: [UE Boom 2](http://www.ultimateears.com/en-us/ueboom2) - If you don't mind the extra weight then portable speakers are a great way to turn any room into a home. The UE Boom series consistently comes out top in reviews thanks to great sound, rugged protection and good looks.
+- :ballot_box_with_check: [JBL Clip 2](http://www.jbl.com/bluetooth-speakers/JBL+CLIP+2.html) - If you mind carrying extra weight, the JBL Clip 2 is a good option with only 184g. Quality is not as good as a stereo speaker but it still does the job pretty well.
+- :ballot_box_with_check: [LaCie Rugged Mobile Storage](http://www.lacie.com/as/en/professional/rugged/) - Keep your backups safe with a drive from the LaCie rugged series, trusted by professionals across the globe.
+- :ballot_box_with_check: [Bose QC20 Noise Cancelling Earphones](https://www.bose.com/en_us/products/headphones/earphones/quietcomfort-20i-acoustic-noise-cancelling-headphones.html) - Public transport can be a noisy affair but if you have the cash to spare then the QC20s are the best around when it comes to noise cancelling headphones in a small package.
+- :white_check_mark: [Google Chromecast](https://store.google.com/product/chromecast) - Chromecast is a media streaming device that plugs into the HDMI port on your TV. Simply use a compatible mobile, tablet or PC device and the TV in your accommodation to watch your favourite TV shows, films, music, sport, games and more on the big screen
+- :white_check_mark: [Kindle Paperwhite](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B07CXG6C9W) - Highly portable, easy on the eyes, readable in sunlight, waterproof, instant access to the worlds largest bookstore and capable of holding over 1,000 books – the Kindle Paperwhite provides a great combination of features and affordability.
+- :ballot_box_with_check: [Mountie](https://tenonedesign.com/mountie.php) - Clip your smartphone or tablet onto your laptop for a portable dual monitor set up. Works well with
+- :ballot_box_with_check: [Duet Display](https://duetdisplay.com).
+- :ballot_box_with_check: [Gerber Shard](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/shard-22-01769) - Want to take a multi-tool with you but can't get traditional ones past airport security without checked baggage? The Gerber Shard is a great solution to this predicament, packing six useful functions into an airline friendly form-factor.
+- :white_circle: [Microphone FIFINE K678](https://pt.aliexpress.com/store/4496094?spm=a2g0o.detail.1000061.1.7c9f46bc3DQ2Ah)
+- :white_circle: [Large Felt Mousepad](https://pt.aliexpress.com/item/32971118525.html?spm=a2g0o.productlist.0.0.57126bddXQaAPe&algo_pvid=a78f91e9-769b-467c-ad70-5c643a19f702&algo_expid=a78f91e9-769b-467c-ad70-5c643a19f702-5&btsid=0be3743b15979327322533481eb33f&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 Brazil
-- [Large Soft Mat Mousepad](https://produto.mercadolivre.com.br/MLB-1250783563-mousepad-gamer-grande-70-x-35-speed-borda-costurada-preta-_JM?quantity=1&variation=54458258033)
-- [Monitor Support ELG F80N](https://www.amazon.com.br/Suporte-Monitor-Elg-F80N-Preto/dp/B0765KZ264/ref=asc_df_B0765KZ264/?tag=googleshopp00-20&linkCode=df0&hvadid=379685351949&hvpos=&hvnetw=g&hvrand=17048040831699725556&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031712&hvtargid=pla-809485465373&psc=1)
-- [Cable Organizer Glorila Shield](https://www.gorilashield.com.br/organizador-de-cabos-gorila-shield)
-- [Necessaire Guardian Glorila Shield](https://www.gorilashield.com.br/necessaire-guardian-gorila-shield)
+- :white_circle: [Large Soft Mat Mousepad](https://produto.mercadolivre.com.br/MLB-1250783563-mousepad-gamer-grande-70-x-35-speed-borda-costurada-preta-_JM?quantity=1&variation=54458258033)
+- :white_circle: [Monitor Support ELG F80N](https://www.amazon.com.br/Suporte-Monitor-Elg-F80N-Preto/dp/B0765KZ264/ref=asc_df_B0765KZ264/?tag=googleshopp00-20&linkCode=df0&hvadid=379685351949&hvpos=&hvnetw=g&hvrand=17048040831699725556&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031712&hvtargid=pla-809485465373&psc=1)
+- :white_circle: [Cable Organizer Glorila Shield](https://www.gorilashield.com.br/organizador-de-cabos-gorila-shield)
+- :white_circle: [Necessaire Guardian Glorila Shield](https://www.gorilashield.com.br/necessaire-guardian-gorila-shield)
 
 #### Continuous Integration
-- [CircleCI](https://circleci.com/)
-- [Bamboo](https://www.atlassian.com/br/software/bamboo/features)
-- [Jenkins](https://www.jenkins.io/), open source CI/CD Server
-- [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
-- [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+- :white_circle: [CircleCI](https://circleci.com/)
+- :white_circle: [Bamboo](https://www.atlassian.com/br/software/bamboo/features)
+- :white_check_mark: [Jenkins](https://www.jenkins.io/), open source CI/CD Server
+- :white_check_mark: [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
+- :white_circle: [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
 ## Remote Team Management
-- [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
-- [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
-- [OwlLabs Interview with Hiten Shah](https://www.owllabs.com/remote-work-interviews/hiten-shah)
-- [Zapier - Onboarding](https://zapier.com/blog/onboarding-remote-employees/)
-- [Zapier - How to evaluate Employees](https://zapier.com/learn/remote-work/remote-employee-evaluation/)
-- [Hubstaff - Remote Onboarding](https://blog.hubstaff.com/remote-onboarding-video/)
-- [How to Help Your Remote Workers Set Long-Term Goals](https://www.yonder.io/post/how-to-help-your-remote-workers-set-long-term-goals)
+- :white_check_mark: [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
+- :white_check_mark: [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
+- :white_check_mark: [OwlLabs Interview with Hiten Shah](https://www.owllabs.com/remote-work-interviews/hiten-shah)
+- :white_check_mark: [Zapier - Onboarding](https://zapier.com/blog/onboarding-remote-employees/)
+- :white_check_mark: [Zapier - How to evaluate Employees](https://zapier.com/learn/remote-work/remote-employee-evaluation/)
+- :white_check_mark: [Hubstaff - Remote Onboarding](https://blog.hubstaff.com/remote-onboarding-video/)
+- :white_check_mark: [How to Help Your Remote Workers Set Long-Term Goals](https://www.yonder.io/post/how-to-help-your-remote-workers-set-long-term-goals)
 
 ## Management Playbooks
-- [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
-- [AHoyTeam Playbook](https://www.ahoyteam.com/read-guide-online)
-- [Zapier Playbook](https://zapier.com/learn/remote-work/)
+- :white_check_mark: [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
+- :white_check_mark: [AHoyTeam Playbook](https://www.ahoyteam.com/read-guide-online)
+- :white_check_mark: [Zapier Playbook](https://zapier.com/learn/remote-work/)
 
 ## Finance
 
 #### Payroll
-- [Taxes and Payroll](https://www.groovehq.com/blog/working-remotely-taxes-payroll)
+- :ballot_box_with_check: [Taxes and Payroll](https://www.groovehq.com/blog/working-remotely-taxes-payroll)
 
 #### Salary Calculation
-- [Buffer](https://buffer.com/resources/transparent-salaries/)
+- :ballot_box_with_check: [Buffer](https://buffer.com/resources/transparent-salaries/)
 
 #### Invoice Creation
-- [Invoice Ninja](https://www.invoiceninja.com/)
-- [Husky](https://husky.io/)
-- [Harvest](https://www.getharvest.com/)
-- [BlinkSale](https://blinksale.com/home-alt/?utm_expid=.yA0-aQ5lTbClawUM7e0-cg.1&utm_referrer=)
+- :ballot_box_with_check: [Invoice Ninja](https://www.invoiceninja.com/)
+- :ballot_box_with_check: [Husky](https://husky.io/)
+- :ballot_box_with_check: [Harvest](https://www.getharvest.com/)
+- :ballot_box_with_check: [BlinkSale](https://blinksale.com/home-alt/?utm_expid=.yA0-aQ5lTbClawUM7e0-cg.1&utm_referrer=)
 
 #### Global Workforce Management
-- [Remote.com](http://remote.com/country-explorer)
-- [Remote Team](https://www.remoteteam.com/)
-- [Pilot.co](https://pilot.co/)
-- [Papaya Global](https://papayaglobal.com/)
+- :ballot_box_with_check: [Remote.com](http://remote.com/country-explorer)
+- :ballot_box_with_check: [Remote Team](https://www.remoteteam.com/)
+- :ballot_box_with_check: [Pilot.co](https://pilot.co/)
+- :ballot_box_with_check: [Papaya Global](https://papayaglobal.com/)
 
 ## Culture and Guides
-- [Why Remote Work Leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
-- [Gitlab - The remote manifesto](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
-- [10 practices that will ensure you succeed at remote work](https://weworkremotely.com/10-practices-that-will-ensure-you-succeed-at-remote-work)
-- [Remote Work Policy](https://learn.g2.com/remote-work-policy)
-- [OWL Labs - Remote Work Interviews](https://www.owllabs.com/remote-work-interviews)
-- [HubStaff - No Excuses: The Definitive Guide to Managing a Remote Team](https://blog.hubstaff.com/remote-team-management/)
-- [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
-- [Twist - Remote Work Guideline](https://twist.com/remote-work-guides/remote-work)
+- :white_check_mark: [Why Remote Work Leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
+- :white_check_mark: [Gitlab - The remote manifesto](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
+- :white_check_mark: [10 practices that will ensure you succeed at remote work](https://weworkremotely.com/10-practices-that-will-ensure-you-succeed-at-remote-work)
+- :white_check_mark: [Remote Work Policy](https://learn.g2.com/remote-work-policy)
+- :white_check_mark: [OWL Labs - Remote Work Interviews](https://www.owllabs.com/remote-work-interviews)
+- :white_check_mark: [HubStaff - No Excuses: The Definitive Guide to Managing a Remote Team](https://blog.hubstaff.com/remote-team-management/)
+- :white_check_mark: [Trello - Remote Work Guide](https://trello.com/remote-work-guide)
+- :white_check_mark: [Twist - Remote Work Guideline](https://twist.com/remote-work-guides/remote-work)
 
 ## News
 
@@ -364,11 +364,13 @@ Thanks goes to these people as well as our references.
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## References and Inspirations 
-- [Zapier](https://zapier.com/learn/remote-work/)
-- [We Work Remotely](https://weworkremotely.com/remote-work-resources/reading)
-- [Hugo53's Repo Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
-- [Zenika's Repo Awesome Remote Work](https://github.com/zenika-open-source/awesome-remote-work)
-- [Dyego Costa's Repo Trabalhando Remoto](https://github.com/DyegoCosta/trabalhando-remoto)
-- [Tapajos' Repo Trabalhando Fora](https://github.com/tapajos/trabalhando_fora)
-- [CBovis' Repo Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
+- :star: [Zapier](https://zapier.com/learn/remote-work/)
+- :star: [We Work Remotely](https://weworkremotely.com/remote-work-resources/reading)
+- :star: [Hugo53's Repo Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- :star: [Zenika's Repo Awesome Remote Work](https://github.com/zenika-open-source/awesome-remote-work)
+- :star: [Dyego Costa's Repo Trabalhando Remoto](https://github.com/DyegoCosta/trabalhando-remoto)
+- :star: [Tapajos' Repo Trabalhando Fora](https://github.com/tapajos/trabalhando_fora)
+- :star: [CBovis' Repo Awesome Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
+
+
 
