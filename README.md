@@ -227,6 +227,8 @@ Brazil
 - :white_check_mark: [Hubstaff - Remote Onboarding](https://blog.hubstaff.com/remote-onboarding-video/)
 - :white_check_mark: [How to Help Your Remote Workers Set Long-Term Goals](https://www.yonder.io/post/how-to-help-your-remote-workers-set-long-term-goals)
 - :white_check_mark: [MIT Sloan - Leading Remotely](https://sloanreview.mit.edu/article/leading-remotely/)
+- :white_check_mark: [MIT Sloan - New Leadership Challenges for the Virtual World of Work](https://sloanreview.mit.edu/article/new-leadership-challenges-for-the-virtual-world-of-work/)
+- :white_check_mark: [MIT Sloan - Leading Remotely Requires New Communication Strategies](https://sloanreview.mit.edu/article/leading-remotely-requires-new-communication-strategies/)
 
 ## Management Playbooks
 - :white_check_mark: [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
@@ -267,81 +269,83 @@ Brazil
 
 #### Reports
 
-- [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
-- [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
-- [Delloite - Remote work](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/human-capital/sg-hc-remote-work.pdf)
+-  :white_check_mark: [Gallup - State American Workplace Report 2017](https://www.gallup.com/workplace/238085/state-american-workplace-report-2017.aspx)
+-  :white_check_mark: [PricewaterhouseCoopers - US Remote Work Survey](https://www.pwc.com/us/en/library/covid-19/us-remote-work-survey.html)
+-  :white_check_mark: [Delloite - Remote work](https://www2.deloitte.com/content/dam/Deloitte/sg/Documents/human-capital/sg-hc-remote-work.pdf)
 
 #### Permanent Migration
 
-- [Twitter and Square](https://www.forbes.com/sites/jackkelly/2020/05/19/after-announcing-twitters-permanent-work-from-home-policy-jack-dorsey-extends-same-courtesy-to-square-employees-this-could-change-the-way-people-work-where-they-live-and-how-much-theyll-be-paid/#26153697614b)
-- [Coinbase](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7)
-- [Atlassian](https://www.smartcompany.com.au/startupsmart/news/atlassian-remote-work-permanent/)
-- [Gitlab](https://www.wsj.com/articles/the-office-of-the-future-is-no-office-at-all-says-startup-11557912601?mod=article_inline)
-- [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
-- [Slack](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok)
-- [Zillow](https://www.zillowgroup.com/zillow-announces-indefinite-work-from-home-policy/)
-
+-  :white_check_mark: [Twitter and Square](https://www.forbes.com/sites/jackkelly/2020/05/19/after-announcing-twitters-permanent-work-from-home-policy-jack-dorsey-extends-same-courtesy-to-square-employees-this-could-change-the-way-people-work-where-they-live-and-how-much-theyll-be-paid/#26153697614b)
+-  :white_check_mark: [Coinbase](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7)
+-  :white_check_mark: [Atlassian](https://www.smartcompany.com.au/startupsmart/news/atlassian-remote-work-permanent/)
+-  :white_check_mark: [Gitlab](https://www.wsj.com/articles/the-office-of-the-future-is-no-office-at-all-says-startup-11557912601?mod=article_inline)
+-  :white_check_mark: [Basecamp](https://m.signalvnoise.com/how-basecamp-became-a-100-remote-company/)
+-  :white_check_mark: [Slack](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok)
+-  :white_check_mark: [Zillow](https://www.zillowgroup.com/zillow-announces-indefinite-work-from-home-policy/)
 
 #### General News and Tips
 
-- [Why Finland leads the World in Flexible Work](https://www.bbc.com/worklife/article/20190807-why-finland-leads-the-world-in-flexible-work)
-- [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
-- [54% of adults want to work remotely most of the time after the pandemic, according to a new study from IBM](https://www.businessinsider.com/54-percent-adults-want-mainly-work-remote-after-pandemic-study-2020-5)
-- [Havard Business Review - Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
-- [Should companies rush headlong into permanent remote work?](https://www.globaltrademag.com/should-companies-rush-headlong-into-permanent-remote-work/)
-- [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
-- [Remote team communication tools](https://doist.com/blog/remote-team-communication-tools/)
-- [Remote Software Development](https://remotework.softwaremill.com/send?hash=69cff64dca92e8201b3c5ec99e447fe0&utm_source=runningremote)
-- [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
-- [Work From Home List](https://wfhlist.io), an Open List of Work From Home Software & Hardware tools.
-- [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL?curator=nodesk.co)
-- [The Workforce Is About to Change Dramatically](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/)
-- [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
+-  :white_check_mark: [Why Finland leads the World in Flexible Work](https://www.bbc.com/worklife/article/20190807-why-finland-leads-the-world-in-flexible-work)
+-  :white_check_mark: [UpWork - Future Workforce report hiring manager insights on flexible and remote work trends](https://www.slideshare.net/upwork/2018-future-workforce-report-hiring-manager-insights-on-flexible-and-remote-work-trends/1)
+-  :white_check_mark: [54% of adults want to work remotely most of the time after the pandemic, according to a new study from IBM](https://www.businessinsider.com/54-percent-adults-want-mainly-work-remote-after-pandemic-study-2020-5)
+-  :white_check_mark: [Havard Business Review - Is It Time to Let Employees Work from Anywhere?](https://hbr.org/2019/08/is-it-time-to-let-employees-work-from-anywhere)
+-  :white_check_mark: [Should companies rush headlong into permanent remote work?](https://www.globaltrademag.com/should-companies-rush-headlong-into-permanent-remote-work/)
+-  :white_check_mark: [Gartner CFO Survey Reveals 74% Intend to Shift Some Employees to Remote Work Permanently](https://www.gartner.com/en/newsroom/press-releases/2020-04-03-gartner-cfo-surey-reveals-74-percent-of-organizations-to-shift-some-employees-to-remote-work-permanently2)
+-  :white_check_mark: [Remote team communication tools](https://doist.com/blog/remote-team-communication-tools/)
+-  :white_check_mark: [Remote Software Development](https://remotework.softwaremill.com/send?hash=69cff64dca92e8201b3c5ec99e447fe0&utm_source=runningremote)
+-  :white_check_mark: [What Remote Working Means & The Tools We Use at Buffer](https://open.bufferapp.com/remote-working-means-tools-use/), tools used at [Buffer](https://bufferapp.com/).
+-  :white_check_mark: [Work From Home List](https://wfhlist.io), an Open List of Work From Home Software & Hardware tools.
+-  :white_check_mark: [Who still needs the office? U.S. companies start cutting space](https://www.reuters.com/article/us-usa-results-realestate/who-still-needs-the-office-u-s-companies-start-cutting-space-idUSKCN24N2NL?curator=nodesk.co)
+-  :white_check_mark: [The Workforce Is About to Change Dramatically](https://www.theatlantic.com/ideas/archive/2020/08/just-small-shift-remote-work-could-change-everything/614980/)
+-  :white_check_mark: [A Hitchhiker’s Guide to the Permanently Flipped Workplace](https://blog.usejournal.com/a-hitchhikers-guide-to-the-permanently-flipped-workplace-40a1106764f0)
+-  :white_check_mark: [Estonia Already Lives Online—Why Can’t the United States?](https://www.theatlantic.com/international/archive/2020/05/estonia-america-congress-online-pandemic/612034/)
+-  :white_check_mark: [MIT Sloan - Overcoming Remote Work Challenges](https://sloanreview.mit.edu/article/overcoming-remote-work-challenges/)
 
 Portuguese Only
-- [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
-- [Pesquisas mostram o mapa do trabalho remoto no Brasil](https://www.whow.com.br/cultura/pesquisas-mapa-trabalho-remoto-brasil/)
+-  :white_check_mark: [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
+-  :white_check_mark: [Pesquisas mostram o mapa do trabalho remoto no Brasil](https://www.whow.com.br/cultura/pesquisas-mapa-trabalho-remoto-brasil/)
 
 #### Legal
 
 Portuguese Only
-- [Jus.com.br - Home-Office à luz da lei 13.467/2017](https://jus.com.br/artigos/72476/home-office-a-luz-da-lei-n-13-467-2017)
+-  :white_check_mark: [Jus.com.br - Home-Office à luz da lei 13.467/2017](https://jus.com.br/artigos/72476/home-office-a-luz-da-lei-n-13-467-2017)
 
 #### Macroeconomy
 
-- [Remote Work is reshaping San Francisco as tech workers flee and rents fall](https://www.foxbusiness.com/technology/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall)
-- [MIT Sloan - Ranking How National Economies Adapt to Remote Work](https://sloanreview.mit.edu/article/ranking-how-national-economies-adapt-to-remote-work/)
+-  :white_check_mark: [Remote Work is reshaping San Francisco as tech workers flee and rents fall](https://www.foxbusiness.com/technology/remote-work-is-reshaping-san-francisco-as-tech-workers-flee-and-rents-fall)
+-  :white_check_mark: [MIT Sloan - Ranking How National Economies Adapt to Remote Work](https://sloanreview.mit.edu/article/ranking-how-national-economies-adapt-to-remote-work/)
+-  :white_check_mark: [Citrix - The potential economic impacts of a flexible working culture](https://www.citrix.com/content/dam/citrix/en_us/documents/white-paper/economic-impacts-flexible-working-us-2019.pdf)
 
 ## Trends / Future of Work
-- [We Work Remotely - Remote Work Trends](https://weworkremotely.com/remote-work-trends)
-- [UpWork - Future Workforce](https://www.upwork.com/i/future-workforce/fw/2020/)
-- [Buffer - State of Remote Work 2019](https://buffer.com/state-of-remote-work-2019)
-- [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
-- [Prudential - American Worker Survey: Living the Future of Work](https://news.prudential.com/presskits/prudentials-pulse-american-worker-survey-living-future-work.htm)
-- [We Work Remotely - The History, Evolution and Future of Remote Work](https://weworkremotely.com/history-of-remote-work)
-- [Visual Capitalist - The Future of Remote Work, According to Startups](https://www.visualcapitalist.com/the-future-of-remote-work-according-to-startups/)
-- [Microsoft - The Virtual Office of the Future: Are Centralized Workplaces Obsolete?](https://www.microsoft.com/en-us/research/publication/the-virtual-office-of-the-future-are-centralized-workplaces-obsolete/)
-- [NPR - Get A Comfortable Chair: Permanent Work From Home Is Coming](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
+-  :white_check_mark: [We Work Remotely - Remote Work Trends](https://weworkremotely.com/remote-work-trends)
+-  :white_check_mark: [UpWork - Future Workforce](https://www.upwork.com/i/future-workforce/fw/2020/)
+-  :white_check_mark: [Buffer - State of Remote Work 2019](https://buffer.com/state-of-remote-work-2019)
+-  :white_check_mark: [Gallup - Is Working Remotely Effective? Gallup Research Says Yes](https://www.gallup.com/workplace/283985/working-remotely-effective-gallup-research-says-yes.aspx)
+-  :white_check_mark: [Prudential - American Worker Survey: Living the Future of Work](https://news.prudential.com/presskits/prudentials-pulse-american-worker-survey-living-future-work.htm)
+-  :white_check_mark: [We Work Remotely - The History, Evolution and Future of Remote Work](https://weworkremotely.com/history-of-remote-work)
+-  :white_check_mark: [Visual Capitalist - The Future of Remote Work, According to Startups](https://www.visualcapitalist.com/the-future-of-remote-work-according-to-startups/)
+-  :white_check_mark: [Microsoft - The Virtual Office of the Future: Are Centralized Workplaces Obsolete?](https://www.microsoft.com/en-us/research/publication/the-virtual-office-of-the-future-are-centralized-workplaces-obsolete/)
+-  :white_check_mark: [NPR - Get A Comfortable Chair: Permanent Work From Home Is Coming](https://www.npr.org/2020/06/22/870029658/get-a-comfortable-chair-permanent-work-from-home-is-coming)
 
 ## Formal Study
-- [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
+-  :white_check_mark: [Long commutes to work during pregnancy and infant health at birth](https://www.sciencedirect.com/science/article/pii/S1570677X17303131?via%3Dihub)
 
 ## Stay in Touch
 
 #### Slack Communities
-- [OwlLabs - Communites](https://www.owllabs.com/blog/remote-work-slack-communities)
-- [Work Remotely](https://slofile.com/slack/workremotely)
+- :white_circle: [OwlLabs - Communites](https://www.owllabs.com/blog/remote-work-slack-communities)
+- :white_circle: [Work Remotely](https://slofile.com/slack/workremotely)
 
 #### General Info
-- [How Telecommuting saves money and the planet too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
-- [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
-- [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/)
-- [11 Great Reasons You Should Embrace Remote Work](https://blog.hubstaff.com/benefits-working-remotely-companies/)
-- [Why Remote Work Beats the Office Every Time](https://blog.hubstaff.com/why-remote-work-is-better/)
+-  :white_check_mark: [How Telecommuting saves money and the planet too](https://www.pgi.com/blog/2019/11/how-telecommuting-saves-money-and-the-planet-too/)
+-  :white_check_mark: [FlexJobs Remote Work Statistics](https://www.flexjobs.com/blog/post/remote-work-statistics/)
+-  :white_check_mark: [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/)
+-  :white_check_mark: [11 Great Reasons You Should Embrace Remote Work](https://blog.hubstaff.com/benefits-working-remotely-companies/)
+-  :white_check_mark: [Why Remote Work Beats the Office Every Time](https://blog.hubstaff.com/why-remote-work-is-better/)
 
 #### Events
-- [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
-- [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
+- :white_circle: [We Work Remotely - Events](https://weworkremotely.com/remote-work-resources/events)
+- :white_circle: [Running Remote - Virtual Conference](https://runningremote.com/virtual-conference/)
 
 ## Contributors ✨
 
