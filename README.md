@@ -169,6 +169,11 @@ Scrum-based or Kanban-based
 - :white_check_mark: [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - :ballot_box_with_check: [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
+### Interactive Presentations
+- :white_check_mark: [Mentimeter](https://www.mentimeter.com/), Get real-time input from remote teams and online students with live polls, quizzes, word clouds, Q&As and more
+- :white_circle: [PollEverywhere](https://www.polleverywhere.com/),Host interactive remote meetings, anywhere.
+- :white_circle: [Klaxoon](klaxoon.com)
+
 ### Bots
 - :ballot_box_with_check: [GeekBot](https://geekbot.com/)
 - :ballot_box_with_check: [Dailybot](https://www.dailybot.com/)
@@ -229,6 +234,10 @@ Brazil
 - :white_check_mark: [MIT Sloan - Leading Remotely](https://sloanreview.mit.edu/article/leading-remotely/)
 - :white_check_mark: [MIT Sloan - New Leadership Challenges for the Virtual World of Work](https://sloanreview.mit.edu/article/new-leadership-challenges-for-the-virtual-world-of-work/)
 - :white_check_mark: [MIT Sloan - Leading Remotely Requires New Communication Strategies](https://sloanreview.mit.edu/article/leading-remotely-requires-new-communication-strategies/)
+- :white_check_mark: [MIT Sloan - Five Ways Leaders Can Support Remote Work](https://sloanreview.mit.edu/article/five-ways-leaders-can-support-remote-work/)
+- :white_check_mark: [MIT Sloan - The Surprising Science Behind Successful Remote Meetings](https://sloanreview.mit.edu/article/the-surprising-science-behind-successful-remote-meetings/)
+- :white_check_mark: [MIT Sloan - How to Create Belonging for Remote Workers](https://sloanreview.mit.edu/article/how-to-create-belonging-for-remote-workers/)
+- :white_check_mark: [MIT Sloan - Making Remote Work Work](https://sloanreview.mit.edu/audio/making-remote-work-work/)
 
 ## Management Playbooks
 - :white_check_mark: [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
