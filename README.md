@@ -310,9 +310,10 @@ Brazil
 -  :white_check_mark: [Estonia Already Lives Online—Why Can’t the United States?](https://www.theatlantic.com/international/archive/2020/05/estonia-america-congress-online-pandemic/612034/)
 -  :white_check_mark: [MIT Sloan - Overcoming Remote Work Challenges](https://sloanreview.mit.edu/article/overcoming-remote-work-challenges/)
 
-Portuguese Only
--  :white_check_mark: [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
--  :white_check_mark: [Pesquisas mostram o mapa do trabalho remoto no Brasil](https://www.whow.com.br/cultura/pesquisas-mapa-trabalho-remoto-brasil/)
+Portuguese 
+- :white_check_mark: [Com home office banco do brasil vai devolver 19 de 35 edificios de escritorios no pais](https://www.infomoney.com.br/negocios/com-home-office-banco-do-brasil-vai-devolver-19-de-35-edificios-de-escritorios-no-pais/)
+- :white_check_mark: [Petrobras anuncia plano para adotar home office permanente](https://exame.com/carreira/petrobras-anuncia-plano-para-adotar-home-office-permanente/)
+- :white_check_mark: [Pesquisas mostram o mapa do trabalho remoto no Brasil](https://www.whow.com.br/cultura/pesquisas-mapa-trabalho-remoto-brasil/)
 
 #### Legal
 
