@@ -77,6 +77,7 @@ Portuguese Only
 - :ballot_box_with_check: [Grain](https://grain.co/)
 - :ballot_box_with_check: [Happeo](https://www.happeo.com/), An intranet, enterprise social network, and collaboration platform that lets your communications flow seamlessly, making work a happier place for all
 - :ballot_box_with_check: [Jitsi](https://jitsi.org/)
+- :white_check_mark: [Discord](https://discord.com/), is a group-chatting platform originally built for gamers that has since become a general use platform for many kinds of communities. Excellent for open-chats
 
 #### AI Assistant for Your Meetings
 - :ballot_box_with_check: [Fireflies.ai](https://fireflies.ai/), Record, Transcribe and Search across your voice conversations
