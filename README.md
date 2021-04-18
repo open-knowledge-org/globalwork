@@ -228,7 +228,7 @@ Brazil
 
 #### Ergonomy
 
-- :white_check_mark: [Ergonomy E-Book](https://lnkd.in/eaJNAux) This ilustrated and well-written e-book was wrote by [Jaquelyne Paz](https://www.linkedin.com/in/jaquelynepaz), which is Architect and ergonomy consultant
+- :white_check_mark: [Ergonomy E-Book](https://lnkd.in/eaJNAux), This ilustrated and well-written e-book was wrote by [Jaquelyne Paz](https://www.linkedin.com/in/jaquelynepaz), which is Architect and ergonomy consultant
 
 ## Remote Team Management
 - :white_check_mark: [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
