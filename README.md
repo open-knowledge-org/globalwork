@@ -224,6 +224,12 @@ Brazil
 - :white_check_mark: [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
 - :white_circle: [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
 
+## Well-Being
+
+#### Ergonomy
+
+- :white_check_mark: [Ergonomy E-Book](https://lnkd.in/eaJNAux) This ilustrated and well-written e-book was wrote by [Jaquelyne Paz](https://www.linkedin.com/in/jaquelynepaz), which is Architect and ergonomy consultant
+
 ## Remote Team Management
 - :white_check_mark: [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
 - :white_check_mark: [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
