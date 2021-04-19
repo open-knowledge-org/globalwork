@@ -109,27 +109,6 @@ Portuguese Only
 - :ballot_box_with_check: [Focus At Will](https://www.focusatwill.com/)
 - :white_check_mark: [ForestApp](https://www.forestapp.cc/?ref=nodesk.co)
 
-#### Project Management
-- :white_check_mark: [Asana](https://asana.com/), team collaboration, projects and tasks management.
-- :ballot_box_with_check: [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
-- :ballot_box_with_check: [Standuply](https://standuply.com/), Project Management Assistant
-
-#### Agile Management
-
-SAFe-ready
-- :white_check_mark: [Version One](https://www.collab.net/products/versionone), SAFe-ready agile management tool :fire:
-- :white_check_mark: [CA Agile Central - Rally](https://www.broadcom.com/products/software/agile-development/rally-software), SAFe-ready agile management tool :fire:
-- :white_check_mark: [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks
-- :ballot_box_with_check: [GitLab](https://about.gitlab.com/solutions/agile-delivery/)
-- :white_check_mark: [Jira](https://www.atlassian.com/software/jira)
-- :white_check_mark: [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/)
-
-Scrum-based or Kanban-based
-- :white_check_mark: [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
-- :ballot_box_with_check: [Monday.com](monday.com)
-- :ballot_box_with_check: [Taiga](https://taiga.io/)
-- :ballot_box_with_check: [Wrike](https://wrike.com/)
-
 #### Knowledge Management
 - :white_check_mark: [Confluence](https://www.atlassian.com/br/software/confluence) :fire:
 - :white_circle: [Document360](https://document360.io/)
@@ -170,12 +149,12 @@ Scrum-based or Kanban-based
 - :white_check_mark: [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
 - :ballot_box_with_check: [Memrise](http://memrise.com) - Not quite as fun as Duolingo but still a solid contender on the language learning scene with support for over 200 languages - _iOS and Android_.
 
-### Interactive Presentations
+#### Interactive Presentations
 - :white_check_mark: [Mentimeter](https://www.mentimeter.com/), Get real-time input from remote teams and online students with live polls, quizzes, word clouds, Q&As and more
 - :white_circle: [PollEverywhere](https://www.polleverywhere.com/),Host interactive remote meetings, anywhere.
 - :white_circle: [Klaxoon](klaxoon.com)
 
-### Bots
+#### Bots
 - :ballot_box_with_check: [GeekBot](https://geekbot.com/)
 - :ballot_box_with_check: [Dailybot](https://www.dailybot.com/)
 
@@ -188,6 +167,42 @@ Scrum-based or Kanban-based
 #### Extended Display
 - :ballot_box_with_check: [Duet Display](https://www.duetdisplay.com) - Use your iPhone or iPad as an extra display for your Mac or PC - _iOS, macOS and Windows_.
 - :ballot_box_with_check: [spacedesk](https://www.spacedesk.net) - Extend or duplicate your Windows display to another device (for free)-  _iOS, Android, Windows and HTML5 Web browser_.
+
+### Software Development
+
+#### Continuous Integration
+- :white_circle: [CircleCI](https://circleci.com/)
+- :white_circle: [Bamboo](https://www.atlassian.com/br/software/bamboo/features)
+- :white_check_mark: [Jenkins](https://www.jenkins.io/), open source CI/CD Server
+- :white_check_mark: [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
+- :white_circle: [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+
+#### Project Management
+- :white_check_mark: [Asana](https://asana.com/), team collaboration, projects and tasks management.
+- :ballot_box_with_check: [Basecamp](https://basecamp.com) - Basecamp organizes your projects, internal communications, and client work in one place so you have a central source of truth.
+- :ballot_box_with_check: [Standuply](https://standuply.com/), Project Management Assistant
+
+#### Agile Management
+
+SAFe-ready
+- :white_check_mark: [Version One](https://www.collab.net/products/versionone), SAFe-ready agile management tool :fire:
+- :white_check_mark: [CA Agile Central - Rally](https://www.broadcom.com/products/software/agile-development/rally-software), SAFe-ready agile management tool :fire:
+- :white_check_mark: [Pivotal Tracker](http://www.pivotaltracker.com/), for tracking tasks
+- :ballot_box_with_check: [GitLab](https://about.gitlab.com/solutions/agile-delivery/)
+- :white_check_mark: [Jira](https://www.atlassian.com/software/jira)
+- :white_check_mark: [Azure DevOps](https://azure.microsoft.com/pt-br/services/devops/)
+
+Scrum-based or Kanban-based
+- :white_check_mark: [Trello](https://trello.com/), flexible, and visual way to organize anything with anyone.
+- :ballot_box_with_check: [Monday.com](monday.com)
+- :ballot_box_with_check: [Taiga](https://taiga.io/)
+- :ballot_box_with_check: [Wrike](https://wrike.com/)
+
+### Setup
+
+#### Preparing your setup
+
+- :white_check_mark: [Larry's Fong Blog](https://larryfong.com/), Larry is director of photography with large experience. On his blog several great tips are given, it's really like a free pro photography coach 
 
 #### Gadgets and Productivity
 
@@ -217,20 +232,15 @@ Brazil
 - :white_circle: [Cable Organizer Glorila Shield](https://www.gorilashield.com.br/organizador-de-cabos-gorila-shield)
 - :white_circle: [Necessaire Guardian Glorila Shield](https://www.gorilashield.com.br/necessaire-guardian-gorila-shield)
 
-#### Continuous Integration
-- :white_circle: [CircleCI](https://circleci.com/)
-- :white_circle: [Bamboo](https://www.atlassian.com/br/software/bamboo/features)
-- :white_check_mark: [Jenkins](https://www.jenkins.io/), open source CI/CD Server
-- :white_check_mark: [GoCD](https://www.gocd.org/), open source CI/CD Server with advanced end-to-end visualization
-- :white_circle: [GitLab](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-
 ## Well-Being
 
 #### Ergonomy
 
 - :white_check_mark: [Ergonomy E-Book](https://lnkd.in/eaJNAux), This ilustrated and well-written e-book was wrote by [Jaquelyne Paz](https://www.linkedin.com/in/jaquelynepaz), which is Architect and ergonomy consultant
 
-## Remote Team Management
+## Management
+
+#### Remote Team Management
 - :white_check_mark: [Hubstaff - Remote Team Management](https://blog.hubstaff.com/remote-team-management/)
 - :white_check_mark: [Clubhouse - Common fails in a remote software team and how to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
 - :white_check_mark: [OwlLabs Interview with Hiten Shah](https://www.owllabs.com/remote-work-interviews/hiten-shah)
@@ -246,10 +256,16 @@ Brazil
 - :white_check_mark: [MIT Sloan - How to Create Belonging for Remote Workers](https://sloanreview.mit.edu/article/how-to-create-belonging-for-remote-workers/)
 - :white_check_mark: [MIT Sloan - Making Remote Work Work](https://sloanreview.mit.edu/audio/making-remote-work-work/)
 
-## Management Playbooks
+####  Management Playbooks
 - :white_check_mark: [Distributed Work Playbooks](http://services.google.com/fh/files/blogs/distributedworkplaybooks.pdf)
 - :white_check_mark: [AHoyTeam Playbook](https://www.ahoyteam.com/read-guide-online)
 - :white_check_mark: [Zapier Playbook](https://zapier.com/learn/remote-work/)
+
+#### Global Workforce Management
+- :ballot_box_with_check: [Remote.com](http://remote.com/country-explorer)
+- :ballot_box_with_check: [Remote Team](https://www.remoteteam.com/)
+- :ballot_box_with_check: [Pilot.co](https://pilot.co/)
+- :ballot_box_with_check: [Papaya Global](https://papayaglobal.com/)
 
 ## Finance
 
@@ -264,12 +280,6 @@ Brazil
 - :ballot_box_with_check: [Husky](https://husky.io/)
 - :ballot_box_with_check: [Harvest](https://www.getharvest.com/)
 - :ballot_box_with_check: [BlinkSale](https://blinksale.com/home-alt/?utm_expid=.yA0-aQ5lTbClawUM7e0-cg.1&utm_referrer=)
-
-#### Global Workforce Management
-- :ballot_box_with_check: [Remote.com](http://remote.com/country-explorer)
-- :ballot_box_with_check: [Remote Team](https://www.remoteteam.com/)
-- :ballot_box_with_check: [Pilot.co](https://pilot.co/)
-- :ballot_box_with_check: [Papaya Global](https://papayaglobal.com/)
 
 ## Culture and Guides
 - :white_check_mark: [Why Remote Work Leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
