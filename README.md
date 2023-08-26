@@ -1,11 +1,11 @@
 # globalwork  ![GitHub](https://img.shields.io/github/license/eduardomioto/globalwork?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/eduardomioto/globalwork?color=%232E8DCD&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/eduardomioto/globalwork?style=flat-square)
 :globe_with_meridians: Join the Global Remote Workforce Repository
 
-A collaborative list of great resources about remote work, global workforce and future of work. Feel free to contribute to this on-going list. :hand:
+A collaborative list of great resources about remote work, the global workforce, and the future of work. Feel free to contribute to this ongoing list. :hand:
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).* :pencil2:
 
-*To a better understanding about the icons used on this page, you may be aware about some information: :white_check_mark: indicates an item already used and approved by our direct contributors, :ballot_box_with_check: indicates an item already checked by our partners and references, :white_circle: indicates an item that is relevant and has high amount of users however was not tested by us yet.* 
+*To a better understanding of the icons used on this page, you may be aware of some information: :white_check_mark: indicates an item already used and approved by our direct contributors, :ballot_box_with_check: indicates an item already checked by our partners and references, :white_circle: indicates an item that is relevant and has a high amount of users however was not tested by us yet.* 
 
 ## Books
 
