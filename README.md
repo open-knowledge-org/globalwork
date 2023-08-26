@@ -128,7 +128,7 @@ Portuguese Only
 #### Backup
 - :white_check_mark: [Dropbox](https://dropbox.com) - The best all-rounder cross platform cloud storage service.
 - :white_check_mark: [Google Drive](https://drive.google.com) - The cheapest cloud storage service currently available.
-- :ballot_box_with_check: [BackBlaze](https://backblaze.com) - Low cost and easy to use cloud backup for Mac and PC.
+- :ballot_box_with_check: [BackBlaze](https://backblaze.com) - Low-cost and easy-to-use cloud backup for Mac and PC.
 - :ballot_box_with_check: [SpiderOak One](https://spideroak.com/solutions/spideroak-one) - Dropbox, Google Drive and Backblaze all take your data security very seriously but if you're especially concerned about privacy then check out the [Snowden endorsed](https://www.theguardian.com/technology/2014/jul/17/edward-snowden-dropbox-privacy-spideroak) SpiderOak.
 
 #### Time Tracking
@@ -137,13 +137,13 @@ Portuguese Only
 - :ballot_box_with_check: [Harvest](https://www.getharvest.com/), a timesheet tracking software.
 - :ballot_box_with_check: [Toggl](https://www.toggl.com/), insanely simple time tracking tool.
 - :ballot_box_with_check: [Qbserve](https://qotoqot.com/qbserve/), automatic productivity tracking, time tracking, and invoice generation for Mac.
-- :ballot_box_with_check: [Taskade](https://www.taskade.com/), realtime organization and collaboration tool for getting things done.
+- :ballot_box_with_check: [Taskade](https://www.taskade.com/), a real-time organization and collaboration tool for getting things done.
 
-#### Langagues
+#### Languages
 - :white_check_mark: [Italki](https://www.italki.com/?hl=pt)
 - [Write and Improve](https://writeandimprove.com/workbooks#/wi-workbooks/bdc648bc-b760-4bac-98bc-161a95deff5e/tasks/582c6699-5ab0-4a63-bd54-6296766cf88c)
 - :white_check_mark: [Google Translate](http://translate.google.com) - The big daddy of translation apps with support for over 100 languages and 50 offline languages as well as photo translation - _iOS and Android_.
-- :ballot_box_with_check: [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
+- :ballot_box_with_check: [Point It: Traveller's Language Kit](http://goodreads.com/book/show/831179.Point_It) - Passport-sized traveler's picture dictionary containing photographs of 1,200 items grouped into categories such as food and drink, accommodation, transportation, automobiles, entertainment, nightlife and health.
 - :ballot_box_with_check: [Food Allergy Translate](http://foodallergytranslate.com) - Mobile apps and physical cards to notify restaurants of your food allergies - _iOS, Android, and Windows Phone_.
 - :ballot_box_with_check: [Fluent In 3 Months](https://www.goodreads.com/book/show/18085519-fluent-in-3-months) - If you've always struggled with learning foreign languages then be sure to check out this great book by Benny Lewis.
 - :white_check_mark: [Duolingo](http://duolingo.com) - The original and arguably most enjoyable language learning app with support for over 20 languages - _iOS, Android and Windows Phone_.
@@ -376,7 +376,7 @@ Portuguese Only
 
 ## Contributors ✨
 
-Thanks goes to these people as well as our references.
+Thanks go to these people as well as our references.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
